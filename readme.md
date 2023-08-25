@@ -1,1 +1,27 @@
-This repository gives several examples of LLM finetuning in a jupyter notebook.
+# Milind's LLM Models Demo
+
+This Jupyter notebook provides a demo for loading and using large language models (LLMs) like GPT-3 for text generation.
+
+## Requirements
+
+The notebook requires the following packages:
+
+- transformers
+- huggingface_hub
+- peft
+- torch
+- einops
+- auto_gptq
+
+
+## Contents
+
+The notebook does the following:
+
+1. Installs required packages
+2. Loads a pretrained GPT-3 model from HuggingFace Hub  
+3. Loads a PEFT model to add extra embeddings
+4. Defines a text generation function 
+5. Generates text for some sample prompts
+
+The model used is a 40B parameter GPT-3 model fine-tuned with reinforcement learning.
