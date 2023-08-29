@@ -25,3 +25,11 @@ The notebook does the following:
 5. Generates text for some sample prompts
 
 The model used is a 40B parameter GPT-3 model fine-tuned with reinforcement learning.
+
+#script to scrape data
+To scrap the data from discord use the script provided in this github
+Make sure you use your autorization discord id which can be taken by going to developer tools in chrome after opening going to chrome 
+And then enable developer tools in discord and copy channel id 
+add these to script and run 
+at end you will get a csv file
+
