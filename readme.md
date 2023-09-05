@@ -6,9 +6,29 @@ This script help us to make a csv file of chats from a any discord
 With the help of this we have make dataset to train our LLM 
 This uses librabries like request json and csv
 
-With the help of this we have made two datasets 
+With the help of this we have made two datasets StartUP and Tech(2) which have been created by scraping chats from various tech and AI channels on discord
 
-This Jupyter notebook provides a demo for loading and using large language models (LLMs) like GPT-3 for text generation.
+## STEP2->4BIT QUANTIZATION 
+file->(4_bit_quantasisation/4_bit_usingGPQ_by_rohit.ipynb)
+This script is used to quant the parameters to 4bit using GPTQ algorithm which reduces the RAM and VRAM requirements for training these models
+After converting the parameters to smaller precision we have tuned these weights 
+For tuning these weights we can use the datasets recommended in paper like c4 or wiki4pedia or we can tune even using custom datasets like we have did (but dataset should be pass as list of strings)
+we have used transformer and GPTQ librabries from hugging face
+
+In the file we have used very small model but this can work on any lamma or gpt model
+
+## STEP->3 FINETUNING
+file->(Untitled43.ipynb)
+At last we have finetuned our model using PEFT(LoRA) for mail genertaion
+This is a very RAM effective algorithm for finetuning 
+
+After creation of proper datasets we can tune this for discord chat
+
+
+
+THESE ALL UNITS WORK PROPERLY AS INDIVIDUAL UNITS BUT STILL WE HAVE TO WORK ON MAKING A PIPELINE SO THEY CAN WORK AS ONE UNIT 
+AND ALSO HAVE TO FIGURE OUT HOW WE CAN DEPLOY THESE MODELS
+
 
 ## Requirements
 
@@ -22,8 +42,6 @@ The notebook requires the following packages:
 - auto_gptq
 
 
-## Contents
-
 The notebook does the following:
 
 1. Installs required packages
@@ -36,10 +54,5 @@ The model used is a 40B parameter GPT-3 model fine-tuned with reinforcement lear
 
 
 
-# Script to scrape data
-To scrap the data from discord use the script provided in this github
-Make sure you use your autorization discord id which can be taken by going to developer tools in chrome after opening going to chrome 
-And then enable developer tools in discord and copy channel id 
-add these to script and run 
-at end you will get a csv file
+#
 
