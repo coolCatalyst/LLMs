@@ -1,4 +1,12 @@
-# Milind's LLM Models Demo
+# LLM Models Demo
+
+## STEP1->CREATION OF DATASET
+file->(Discord_Messge_extractor_Milind.py)
+This script help us to make a csv file of chats from a any discord 
+With the help of this we have make dataset to train our LLM 
+This uses librabries like request json and csv
+
+With the help of this we have made two datasets 
 
 This Jupyter notebook provides a demo for loading and using large language models (LLMs) like GPT-3 for text generation.
 
