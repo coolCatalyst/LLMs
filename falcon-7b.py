@@ -21,7 +21,7 @@ from transformers import (
     BitsAndBytesConfig,
 )
 
-model_id = "tiiuae/falcon-7b"
+model_id = "tiiuae/falcon-7b-instruct"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -73,6 +73,8 @@ dataset = dataset.shuffle().map(generate_and_tokenize_prompt)
 
 OUTPUT_DIR = "/root/hongyu/JupyterNotebooksFinetuning/models"
 training_args = transformers.TrainingArguments(
+    per_device_train_batch_size=32,
+    gradient_accumulation_steps=4,
     auto_find_batch_size=True,
     num_train_epochs=4,
     learning_rate=2e-4,
@@ -91,3 +93,6 @@ trainer = transformers.Trainer(
 )
 model.config.use_cache = False
 trainer.train()
+
+# model.save_pretrained("saved_model")
+# tokenizer.save_pretrained("saved_model")
