@@ -25,8 +25,8 @@ Output must be following type:
 ...
 
 ###
-20. User: <question 20>
-20. AI: <answer 20>
+10. User: <question 10>
+10. AI: <answer 10>
 
 
 List of 10 tasks:

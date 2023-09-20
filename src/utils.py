@@ -3,6 +3,7 @@ import logging
 import math
 import os
 import io
+import re
 import sys
 import time
 import json
@@ -130,6 +131,36 @@ def openai_completion(
         (completions,) = completions
     return completions
 
+def openai_chat_completion(
+    messages: Union[str, Sequence[str], Sequence[Dict[str, str]], Dict[str, str]],
+    decoding_args: dict,
+    model_name="gpt-4",
+    sleep_time=2,
+    return_text=False,
+    **decoding_kwargs,
+): # -> Union[Union[StrOrOpenAIObject], Sequence[StrOrOpenAIObject], Sequence[Sequence[StrOrOpenAIObject]],]:
+    
+    # batch_decoding_args = copy.deepcopy(decoding_args)  # cloning the decoding_args
+
+    try:
+        shared_kwargs = dict(
+            model=model_name,
+            **decoding_args,
+            **decoding_kwargs,
+        )
+        response = openai.ChatCompletion.create(messages=messages, **shared_kwargs)
+        message = response.choices[0]['message']
+        return message
+    except openai.error.OpenAIError as e:
+        logging.warning(f"OpenAIError: {e}.")
+        if "Please reduce your prompt" in str(e):
+            # batch_decoding_args.max_tokens = int(batch_decoding_args.max_tokens * 0.8)
+            # logging.warning(f"Reducing target length to {batch_decoding_args.max_tokens}, Retrying...")
+            logging.error("Reduce your prompt")
+        else:
+            logging.warning("Hit request rate limit; retrying...")
+            time.sleep(sleep_time)  # Annoying rate limit on requests.
+    return None
 
 def _make_w_io_base(f, mode: str):
     if not isinstance(f, io.IOBase):
@@ -181,3 +212,6 @@ def compute_documents(text:str, chunk_size:int=1000, chunk_overlap:int=300):
 
     documents = text_splitter.split_text(text)
     return documents
+
+def find_word_in_string(w, s):
+    return re.compile(r"\b({0})\b".format(w), flags=re.IGNORECASE).search(s)
