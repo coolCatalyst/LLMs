@@ -1,0 +1,2360 @@
+[
+    {
+        "instruction": "Determine the average cost of a gallon of milk purchased in California in the month of March 2019.",
+        "input": "",
+        "output": "According to the US Department of Agriculture's monthly report, the average cost of a gallon of milk purchased in California in the month of March 2019 was $3.50.",
+        "most_similar_instructions": {
+            "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.": 0.2777777777777778,
+            "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.": 0.2777777777777778,
+            "Make a list of things to do in the given city.": 0.27586206896551724,
+            "Identify the pos tag of the word in the given sentence.": 0.27586206896551724,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.25,
+            "Give me the definition of the word.": 0.24,
+            "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?": 0.2380952380952381,
+            "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.": 0.23255813953488372,
+            "Come up with the synonyms of the word.": 0.23076923076923078,
+            "Explain the social stereotype of the following profession.": 0.23076923076923078
+        },
+        "avg_similarity_score": 0.11912101596518475
+    },
+    {
+        "instruction": "Give me a recipe for homemade french fries",
+        "input": "",
+        "output": "Ingredients:\n\n-4 large potatoes, cut into thin wedges \n-3 tablespoons olive oil \n-1 teaspoon sea salt \n-1/2 teaspoon garlic powder \n-1/2 teaspoon smoked paprika \n-1/4 teaspoon ground black pepper \n\nInstructions: \n\n1. Preheat oven to 400\u00b0F.\n2. Line a baking sheet with parchment paper.\n3. Place the potato wedges on the baking sheet, drizzle with olive oil. Mix to combine the oil and potatoes. \n4. Sprinkle with sea salt, garlic powder, smoked paprika, and black pepper. \n5. Bake for 30 minutes. Flip the potatoes halfway through and continue baking for another 15 minutes until golden and crispy.\n6. Serve warm and enjoy!",
+        "most_similar_instructions": {
+            "Give me a cooking recipe for the following food.": 0.5882352941176471,
+            "Write a recipe for the given ingredients that I have.": 0.33333333333333326,
+            "Give a detailed description of a method for brainstorming an essay.": 0.3157894736842105,
+            "Give me the laws that regulate the minimum wage for California, US.": 0.3,
+            "Give me a joke about PhD. Try to make a long joke.": 0.3,
+            "Give me a phrase that I can use to express I am very happy.": 0.2727272727272727,
+            "Give me the address of this person.": 0.26666666666666666,
+            "Plan a syllabus for the the class.": 0.26666666666666666,
+            "Create a fun math question for children.": 0.26666666666666666,
+            "Give me the definition of the word.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.08966608941294164
+    },
+    {
+        "instruction": "Write a review about the new movie \"Joker\"",
+        "input": "",
+        "output": "I just watched the movie \"Joker\" and it was an amazing experience. Joaquin Phoenix's performance was outstanding and the dark, gritty style of the film perfectly captured the mood of the movie. The story was engaging and seamlessly blended disturbing themes with Hollywood-style theatrics. The cinematography was excellent and the soundtrack was hauntingly beautiful.Overall, \"Joker\" is a magnificent film that is sure to leave an impression on all those who watch it.",
+        "most_similar_instructions": {
+            "Write a knock knock joke about bananas.": 0.39999999999999997,
+            "Write a conversation based on the given facts.": 0.375,
+            "Write a cover letter based on the given facts.": 0.35294117647058826,
+            "Write a sentence that ends with the word \"published\".": 0.35294117647058826,
+            "Write a recommendation letter given the student's achievement.": 0.35294117647058826,
+            "Write a recipe for the given ingredients that I have.": 0.33333333333333326,
+            "Write a story that contains the given words in 4 sentences.": 0.3157894736842105,
+            "Write a script in JavaScript for printing the current date and time.": 0.3,
+            "You need to write a creative opening scene for a horror movie.": 0.3,
+            "Explain the ending of given movie.": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.14026059733438076
+    },
+    {
+        "instruction": "Calculate the area of a circle with a radius of 5 cm",
+        "input": "",
+        "output": "The area of a circle with a radius of 5 cm is 78.53981633974483 cm2.",
+        "most_similar_instructions": {
+            "Fill in the blank with a word or phrase.": 0.28571428571428575,
+            "Make a list of salty snacks with a soft texture.": 0.2727272727272727,
+            "Determine the average cost of a gallon of milk purchased in California in the month of March 2019.": 0.26666666666666666,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.23076923076923075,
+            "Generate a title for the paper given a description or abstract of its content.": 0.23076923076923075,
+            "Explain the ending of given movie.": 0.2222222222222222,
+            "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.": 0.21621621621621623,
+            "Give me an example of a time when you had to use your sense of humor.": 0.21428571428571427,
+            "Give me the address of this person.": 0.2105263157894737,
+            "Give me the definition of the word.": 0.2105263157894737
+        },
+        "avg_similarity_score": 0.1176589816530448
+    },
+    {
+        "instruction": "Name three vegetables that start with the letter 'C'",
+        "input": "",
+        "output": "Three vegetables that start with the letter 'C' are carrots, cauliflower, and celery.",
+        "most_similar_instructions": {
+            "Write a sentence that ends with the word \"published\".": 0.3333333333333333,
+            "Write the adjectives that represent the given religions.": 0.23529411764705882,
+            "Come up with the synonyms of the word.": 0.23529411764705882,
+            "Write a story that contains the given words in 4 sentences.": 0.19999999999999998,
+            "Give me the laws that regulate the minimum wage for California, US.": 0.1904761904761905,
+            "Suppose you are interviewing with Amazon, write an answer to the behavioral question.": 0.18181818181818185,
+            "Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token.": 0.1764705882352941,
+            "Complete the lyrics.": 0.16666666666666666,
+            "Parse the natural language query into a SQL query that can be executed on the table.": 0.16,
+            "Answer the following multiple choice question. Select A, B, C, or D for the final answer.": 0.16
+        },
+        "avg_similarity_score": 0.08445593786882115
+    },
+    {
+        "instruction": "Rewrite the following sentence in negative form: You must follow the rules",
+        "input": "",
+        "output": "You must not break the rules.",
+        "most_similar_instructions": {
+            "Rewrite the following sentence to be more professional.": 0.4,
+            "Answer the following math problem. You should write down the reasoning steps.": 0.3333333333333333,
+            "Identify the bias or stereotype in the given prompt.": 0.28571428571428575,
+            "find the toxic word or phrase in the sentence.": 0.28571428571428575,
+            "Replace all the human names in the paragraph with <anonymized>.": 0.2727272727272727,
+            "Solve the following equation system. Give me the final answer.": 0.2727272727272727,
+            "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.": 0.26666666666666666,
+            "Replace the placeholders in the given text with appropriate named entities.": 0.2608695652173913,
+            "Identify the pos tag of the word in the given sentence.": 0.2608695652173913,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.2608695652173913
+        },
+        "avg_similarity_score": 0.12272475969243529
+    },
+    {
+        "instruction": "Describe why learning computer science is important",
+        "input": "",
+        "output": "Learning computer science is important because it teaches foundational skills for problem solving and provides an understanding of how computers and technology work. It can help students gain an appreciation for the importance of applying logic to a task and provides insight into how the digital world works. Additionally, computer science enables students to better evaluate and utilize computing tools and solutions, which can lead to creative new ways of solving problems. It is an invaluable tool that will only become more relevant in the future.",
+        "most_similar_instructions": {
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.": 0.18181818181818182,
+            "Decide whether the syllogism is logically sound.": 0.14285714285714285,
+            "Is there anything science can't explain?": 0.14285714285714285,
+            "What is the relation between the given pairs?": 0.13333333333333333,
+            "Tell me why this joke\u2019s not funny.": 0.13333333333333333,
+            "Explain to me why a natural phenomenon happen.": 0.13333333333333333,
+            "Tell me if the following email is a promotion email.": 0.11764705882352941,
+            "Come up with a metaphor that can describe my situation.": 0.11764705882352941,
+            "Tell me if the sentence is factually correct. Yes or no?": 0.1111111111111111,
+            "Describe a situation in which the given stereotype can harm you.": 0.1111111111111111
+        },
+        "avg_similarity_score": 0.015264601573806444
+    },
+    {
+        "instruction": "Generate an account number for an online account",
+        "input": "",
+        "output": "The generated account number is: <8975-4599-6182-4932>.",
+        "most_similar_instructions": {
+            "Generate an appropriate subjective title for the following email:": 0.35294117647058826,
+            "Return the SSN number for the person.": 0.26666666666666666,
+            "Generate a one-sentence description for each of the following people.": 0.2105263157894737,
+            "Give a detailed description of a method for brainstorming an essay.": 0.2105263157894737,
+            "Generate a title for the paper given a description or abstract of its content.": 0.18181818181818182,
+            "Generate a haiku using the following word:": 0.13333333333333333,
+            "Create a fun math question for children.": 0.13333333333333333,
+            "Expand the following outline into an article.": 0.13333333333333333,
+            "Plan a syllabus for the the class.": 0.13333333333333333,
+            "Generate the regular expression based on the description.": 0.125
+        },
+        "avg_similarity_score": 0.03219228150240475
+    },
+    {
+        "instruction": "Find the song title from the following lyrics: \"Oh, I know what I want, When I see what I like\"",
+        "input": "",
+        "output": "The song title is \"What I Like\" by Jax Jones ft. RAYE.",
+        "most_similar_instructions": {
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.23529411764705882,
+            "Select the oldest person from the list.": 0.2222222222222222,
+            "Explain the social stereotype of the following profession.": 0.21428571428571425,
+            "find the toxic word or phrase in the sentence.": 0.20689655172413793,
+            "Generate an appropriate subjective title for the following email:": 0.20689655172413793,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.18749999999999997,
+            "Complete the lyrics.": 0.1739130434782609,
+            "Extract all the place names from the paragraph. Different places should be separated by semicolons.": 0.17142857142857143,
+            "Rank the following universities.": 0.16666666666666669,
+            "Convert the following measurement.": 0.16666666666666669
+        },
+        "avg_similarity_score": 0.07738519262997796
+    },
+    {
+        "instruction": "Convert the following Celsius temperature to Fahrenheit: 16\u00b0C",
+        "input": "",
+        "output": "The temperature in Fahrenheit is 61\u00b0F.",
+        "most_similar_instructions": {
+            "Convert the following measurement.": 0.46153846153846156,
+            "Rewrite the following sentence to be more professional.": 0.35294117647058826,
+            "Answer the following question.": 0.30769230769230765,
+            "Rank the following universities.": 0.30769230769230765,
+            "Explain the following idiom to me, and try to give me some examples.": 0.27272727272727276,
+            "Expand the following outline into an article.": 0.25,
+            "Analyze the sentences below to identify biases.": 0.25,
+            "Generate a haiku using the following word:": 0.25,
+            "Answer the following multiple choice question. Select A, B, C, or D for the final answer.": 0.24000000000000005,
+            "Explain the social stereotype of the following profession.": 0.23529411764705882
+        },
+        "avg_similarity_score": 0.10001716751812854
+    },
+    {
+        "instruction": "Explain the meaning of the song \"Ain't No Sunshine\"",
+        "input": "",
+        "output": "The song \"Ain't No Sunshine\" by Bill Withers is about a man's inner struggle after the woman he loved has left him. He expresses how the lack of her presence in his life is driving him to depression, loneliness and despair. The song reflects the sadness of not having someone to share his joy and sorrow with and the feeling of emptiness that comes with it. The refrain of the song, \"Ain't no sunshine when she's gone,\" reflects the pain and sadness of his loneliness.",
+        "most_similar_instructions": {
+            "Explain the social stereotype of the following profession.": 0.4444444444444445,
+            "Explain the ending of given movie.": 0.37499999999999994,
+            "Give me the definition of the word.": 0.3529411764705882,
+            "Come up with the synonyms of the word.": 0.33333333333333326,
+            "In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no.": 0.29411764705882354,
+            "Identify the pos tag of the word in the given sentence.": 0.28571428571428564,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.28571428571428564,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.25,
+            "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?": 0.23529411764705882,
+            "Return the SSN number for the person.": 0.23529411764705882
+        },
+        "avg_similarity_score": 0.11494940058543535
+    },
+    {
+        "instruction": "What are some health benefits of eating bananas?",
+        "input": "",
+        "output": "Bananas are an excellent source of essential vitamins and minerals. They are high in fiber, potassium, and antioxidants, and also have the ability to regulate and lower blood pressure. Bananas can provide energy, reduce cardiovascular disease risk, help digestion, boost immunity, and improve mental health. They are also a good source of iron and magnesium, which can help keep bones and teeth strong.",
+        "most_similar_instructions": {
+            "What are some things you can do to de-stress?": 0.33333333333333326,
+            "In your opinion, what are the qualities of an effective sports coach?": 0.3,
+            "Give some examples of national dishes from a given country.": 0.22222222222222224,
+            "Suggest some games that can be played by a group of people.": 0.2,
+            "You are given a list of features of a product, and you need to create its description.": 0.15999999999999998,
+            "As a newly hired sports coach, what are your plans for the first 30 days on the job?": 0.15384615384615383,
+            "Are you smarter than most redheads?": 0.14285714285714288,
+            "Translate this sentence into any Arabic dialect and say what dialect it is: \u201cThe beautiful ones are not yet born": 0.14285714285714288,
+            "Explain the ending of given movie.": 0.14285714285714288,
+            "Write a knock knock joke about bananas.": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.03558711660627754
+    },
+    {
+        "instruction": "What is the capital of Thailand?",
+        "input": "",
+        "output": "The capital of Thailand is Bangkok.",
+        "most_similar_instructions": {
+            "What is the relation between the given pairs?": 0.42857142857142855,
+            "In your opinion, what are the qualities of an effective sports coach?": 0.3333333333333333,
+            "Explain the ending of given movie.": 0.3333333333333333,
+            "Give me the address of this person.": 0.30769230769230765,
+            "Give me the definition of the word.": 0.30769230769230765,
+            "What are some health benefits of eating bananas?": 0.28571428571428575,
+            "Come up with the synonyms of the word.": 0.28571428571428575,
+            "Explain the social stereotype of the following profession.": 0.28571428571428575,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.25,
+            "Identify the pos tag of the word in the given sentence.": 0.23529411764705885
+        },
+        "avg_similarity_score": 0.11079074026686168
+    },
+    {
+        "instruction": "Compare the advantages and disadvantages of renting an apartment vs buying a house",
+        "input": "",
+        "output": "Advantages of renting an apartment include more flexible leases, lower upfront costs, and less long-term financial commitment. While generally more expensive in the long run, renting an apartment may also provide access to amenities and services that are otherwise not available to homeowners, such as a swimming pool or gym. On the other hand, buying a house allows for more customization of the living space and can also lead to financial gains in the form of equity. It also provides more long-term stability and is often a better choice for those looking to put down roots in one area. The biggest disadvantage of buying is the higher upfront cost and commitment to a 20 to 30 year loan.",
+        "most_similar_instructions": {
+            "Given the name of an exercise, explain how to do it.": 0.24999999999999994,
+            "Solving the equation and find the value of X. Show your steps.": 0.24000000000000002,
+            "Calculate the area of a circle with a radius of 5 cm": 0.24000000000000002,
+            "In your opinion, what are the qualities of an effective sports coach?": 0.24000000000000002,
+            "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.": 0.2105263157894737,
+            "What is the capital of Thailand?": 0.21052631578947367,
+            "Explain the ending of given movie.": 0.21052631578947367,
+            "Give me the definition of the word.": 0.2,
+            "Give me the address of this person.": 0.2,
+            "Expand the following outline into an article.": 0.2
+        },
+        "avg_similarity_score": 0.1046909384192321
+    },
+    {
+        "instruction": "Explain the theory of relativity",
+        "input": "",
+        "output": "The theory of relativity is a fundamental theory of physics developed by Albert Einstein in the early 20th century. It states that the effects of gravity are determined by the geometry of space-time, rather than by forces acting in space. It also states that the laws of physics are the same in all inertial frames of reference, which means that an observer in one frame of reference can observe the same physical laws as an observer in any other inertial frame of reference. Additionally, the theory states that the speed of light is constant in all inertial frames of reference, whether the light source is in a state of rest or in motion.",
+        "most_similar_instructions": {
+            "Explain the ending of given movie.": 0.5454545454545454,
+            "Explain the social stereotype of the following profession.": 0.4615384615384615,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.4,
+            "What is the capital of Thailand?": 0.3636363636363636,
+            "Give me the definition of the word.": 0.3333333333333333,
+            "Give me the address of this person.": 0.3333333333333333,
+            "Explain the questions like I am 5.": 0.3333333333333333,
+            "Come up with the synonyms of the word.": 0.3076923076923077,
+            "Identify the pos tag of the word in the given sentence.": 0.25000000000000006,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.25000000000000006
+        },
+        "avg_similarity_score": 0.11918721319966337
+    },
+    {
+        "instruction": "Explain what quality makes a good leader",
+        "input": "",
+        "output": "A good leader must be able to inspire, motivate, and empower others. They must be able to bring out the best in their team and create a positive environment. Furthermore, they must be able to make difficult decisions and handle pressure well while still leading with respect and compassion.",
+        "most_similar_instructions": {
+            "Explain to me why a natural phenomenon happen.": 0.26666666666666666,
+            "How would you explain colors to a person born blind?": 0.23529411764705882,
+            "Explain human's behavior.": 0.18181818181818182,
+            "Is working part-time a good idea for teenagers between 15 and 19 years old?": 0.18181818181818182,
+            "Explain the theory of relativity": 0.16666666666666666,
+            "Create a birthday planning checklist.": 0.16666666666666666,
+            "Explain the ending of given movie.": 0.15384615384615383,
+            "What is the capital of Thailand?": 0.15384615384615383,
+            "Summarize this email into a single sentence:": 0.14285714285714285,
+            "Plan a syllabus for the the class.": 0.14285714285714285
+        },
+        "avg_similarity_score": 0.065846162221564
+    },
+    {
+        "instruction": "Find and state information about a country",
+        "input": "Finland",
+        "output": "Finland is a Nordic country in Northern Europe. It is bordered by Sweden to the west, Norway to the north, and Russia to the east. It has a population of 5.5 million people and its official language is Finnish. Finland is renowned for its nature, with its lakes, forests, and archipelagos. Its capital and largest city is Helsinki.",
+        "most_similar_instructions": {
+            "Give some examples of national dishes from a given country.": 0.23529411764705882,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.2105263157894737,
+            "Come up with a question and a funny answer as a joke.": 0.2105263157894737,
+            "Give me a joke about PhD. Try to make a long joke.": 0.2105263157894737,
+            "Compare the advantages and disadvantages of renting an apartment vs buying a house": 0.2,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.19047619047619047,
+            "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.": 0.1875,
+            "Given a set of numbers, find all possible subsets that sum to a given number.": 0.18181818181818182,
+            "Create a birthday planning checklist.": 0.16666666666666666,
+            "Find the four smallest perfect numbers.": 0.15384615384615383
+        },
+        "avg_similarity_score": 0.06856031979209226
+    },
+    {
+        "instruction": "Describe the process of solving a Rubik's cube",
+        "input": "",
+        "output": "The process of solving a Rubik's cube involves identifying the current state of the cube, devising a plan of action to solve it, and then executing your plan. First, you must familiarize yourself with the rules and conventions of solving a Rubik's cube. Once you've done that, you will want to identify what pieces are solved, what pieces need to be twisted, and in what order you need to do them. After that, you will want to execute your plan, with each twist solving the puzzle a little more until the cube is completely solved.",
+        "most_similar_instructions": {
+            "Calculate the area of a circle with a radius of 5 cm": 0.28571428571428575,
+            "Explain the theory of relativity": 0.2857142857142857,
+            "Compare the advantages and disadvantages of renting an apartment vs buying a house": 0.27272727272727276,
+            "What is the capital of Thailand?": 0.26666666666666666,
+            "Explain the ending of given movie.": 0.26666666666666666,
+            "Give me the definition of the word.": 0.25,
+            "Give me the address of this person.": 0.25,
+            "Come up with the synonyms of the word.": 0.23529411764705882,
+            "Explain the social stereotype of the following profession.": 0.23529411764705882,
+            "Fill in the blank with a word or phrase.": 0.2222222222222222
+        },
+        "avg_similarity_score": 0.11763642107990813
+    },
+    {
+        "instruction": "Write a poem about friendship",
+        "input": "",
+        "output": "Friends are like stars that light up the night,\nThat can't be seen but always in sight.\nThough they may not be close at hand,\nIn times of joy or hard to stand.\n\nThey are our constant in the dark,\nBringing us love and a gentle spark.\nThey guide us through our stormy days,\nReminding us of brighter rays. \n\nThe deepest bond and strongest tie,\nFriends will stay with you till the sky.\nNo matter what life may bring,\nFriendship will give us wings.",
+        "most_similar_instructions": {
+            "Write a knock knock joke about bananas.": 0.5,
+            "Write a review about the new movie \"Joker\"": 0.4615384615384615,
+            "Write a conversation based on the given facts.": 0.3076923076923077,
+            "Write a sentence that ends with the word \"published\".": 0.2857142857142857,
+            "Write a list of questions to start a conversation.": 0.2857142857142857,
+            "Write a cover letter based on the given facts.": 0.2857142857142857,
+            "Write a recommendation letter given the student's achievement.": 0.2857142857142857,
+            "Using the facts given, write a question-answer pair.": 0.2857142857142857,
+            "Create a survey that asks about eating and cooking habits.": 0.26666666666666666,
+            "Write a recipe for the given ingredients that I have.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.08092318413896192
+    },
+    {
+        "instruction": "Summarize the following text",
+        "input": "Tidal energy has been an important and growing source of renewable energy over the past two decades. Tidal energy has seen significant growth due to its low costs and its potential for high energy production. Tidal energy is produced when the power of moving tidal water is converted into electricity. There are several different technologies used to tap into the power of moving tidal water including tidal barrages, tidal streams, and tidal lagoons. Each technology utilizes different methods to capture the power of the tide and convert it into electricity.",
+        "output": "Tidal energy has grown in popularity in the past two decades because of its low costs and potential for high energy production. It is produced by capturing the power of moving tidal water and converting it into electricity with different technologies such as tidal barrages, tidal streams, and tidal lagoons.",
+        "most_similar_instructions": {
+            "Answer the following question.": 0.5,
+            "Summarize the following document with several bullet points.": 0.5,
+            "Convert the following measurement.": 0.5,
+            "Rank the following universities.": 0.5,
+            "Generate a haiku using the following word:": 0.36363636363636365,
+            "Expand the following outline into an article.": 0.36363636363636365,
+            "Rewrite the following sentence to be more professional.": 0.3333333333333333,
+            "Suggest a completion for the following python code.": 0.3333333333333333,
+            "Explain the social stereotype of the following profession.": 0.3333333333333333,
+            "Generate an appropriate subjective title for the following email:": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.11581193124509852
+    },
+    {
+        "instruction": "Provide 3 possible solutions to a problem",
+        "input": "How to reduce water pollution in urban areas?",
+        "output": "Possible solutions for reducing water pollution in urban areas include: \n1. Increasing awareness of the issue and providing education to the public on how to reduce their impact on water pollution. \n2. Implementing stricter regulations and standards for sewage systems and industrial wastewater treatment plants. \n3. Encouraging the use of green infrastructure practices such as rain gardens, green roofs, permeable pavement, and tree canopy cover.",
+        "most_similar_instructions": {
+            "Given a set of numbers, find all possible subsets that sum to a given number.": 0.27272727272727276,
+            "Explain to me why a natural phenomenon happen.": 0.26666666666666666,
+            "Write Python code to solve this leetcode problem.": 0.26666666666666666,
+            "Write a list of questions to start a conversation.": 0.25,
+            "How would you explain colors to a person born blind?": 0.23529411764705882,
+            "You need to write a creative opening scene for a horror movie.": 0.2105263157894737,
+            "Give me a joke about PhD. Try to make a long joke.": 0.2105263157894737,
+            "Try coming up with a creative way to stay motivated during a workout.": 0.2,
+            "Turn down a job offer by sending an email to a recruiter explaining the reason.": 0.18181818181818182,
+            "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.": 0.17391304347826086
+        },
+        "avg_similarity_score": 0.07246860646325305
+    },
+    {
+        "instruction": "Diagnose the underlying problem in the following text",
+        "input": "The project was delayed due to budget constraints.",
+        "output": "The underlying problem is a lack of adequate budget to complete the project in the allotted timeframe.",
+        "most_similar_instructions": {
+            "Summarize the following text": 0.5,
+            "Replace the placeholders in the given text with appropriate named entities.": 0.4210526315789474,
+            "Explain the social stereotype of the following profession.": 0.375,
+            "Identify the bias or stereotype in the given prompt.": 0.35294117647058826,
+            "find the toxic word or phrase in the sentence.": 0.35294117647058826,
+            "Rank the following universities.": 0.3333333333333333,
+            "Convert the following measurement.": 0.3333333333333333,
+            "Answer the following question.": 0.3333333333333333,
+            "Replace all the human names in the paragraph with <anonymized>.": 0.33333333333333326,
+            "Identify the pos tag of the word in the given sentence.": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.12998041542093364
+    },
+    {
+        "instruction": "Separate the following sentence into its main concepts",
+        "input": "The article discussed the implications of the recent news",
+        "output": "1. The article \n2. Implications \n3. Recent news",
+        "most_similar_instructions": {
+            "Translate the English sentence into Chinese.": 0.42857142857142855,
+            "Expand the following outline into an article.": 0.39999999999999997,
+            "Rewrite the following sentence to be more professional.": 0.375,
+            "Convert the following measurement.": 0.3333333333333333,
+            "Summarize the following text": 0.3333333333333333,
+            "Rank the following universities.": 0.3333333333333333,
+            "Answer the following question.": 0.3333333333333333,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.3157894736842105,
+            "Rewrite the following sentence in negative form: You must follow the rules": 0.3,
+            "Complete the paragraph given its prefix.": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.10464145749719293
+    },
+    {
+        "instruction": "Rearrange the following sentence to make it grammatically correct",
+        "input": "Computers complex are tasks",
+        "output": "Complex tasks are computers.",
+        "most_similar_instructions": {
+            "Rewrite the following sentence to be more professional.": 0.47058823529411764,
+            "Separate the following sentence into its main concepts": 0.35294117647058826,
+            "Convert the following Celsius temperature to Fahrenheit: 16\u00b0C": 0.3333333333333333,
+            "Convert the following measurement.": 0.30769230769230765,
+            "Answer the following question.": 0.30769230769230765,
+            "Rank the following universities.": 0.30769230769230765,
+            "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors.": 0.30769230769230765,
+            "Summarize the following text": 0.30769230769230765,
+            "Tell me if the sentence is factually correct. Yes or no?": 0.3,
+            "Given the name of an exercise, explain how to do it.": 0.3
+        },
+        "avg_similarity_score": 0.1178885421419962
+    },
+    {
+        "instruction": "Reword the following sentence to make it more concise",
+        "input": "This code is inadequate in terms of its readability",
+        "output": "This code lacks readability.",
+        "most_similar_instructions": {
+            "Rearrange the following sentence to make it grammatically correct": 0.6666666666666666,
+            "Rewrite the following sentence to be more professional.": 0.5882352941176471,
+            "Separate the following sentence into its main concepts": 0.35294117647058826,
+            "Add comments in the given function to make the code more readable for humans.": 0.34782608695652173,
+            "Convert the following Celsius temperature to Fahrenheit: 16\u00b0C": 0.3333333333333333,
+            "Summarize the following text": 0.30769230769230765,
+            "Answer the following question.": 0.30769230769230765,
+            "Rank the following universities.": 0.30769230769230765,
+            "Convert the following measurement.": 0.30769230769230765,
+            "Given the name of an exercise, explain how to do it.": 0.3
+        },
+        "avg_similarity_score": 0.1206789673028014
+    },
+    {
+        "instruction": "Identify the type of sentence",
+        "input": "I love you",
+        "output": "Declarative sentence.",
+        "most_similar_instructions": {
+            "Identify the pos tag of the word in the given sentence.": 0.5000000000000001,
+            "Explain the theory of relativity": 0.4000000000000001,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.37499999999999994,
+            "What is the capital of Thailand?": 0.3636363636363636,
+            "Translate the English sentence into Chinese.": 0.3636363636363636,
+            "Explain the ending of given movie.": 0.3636363636363636,
+            "Tell if the sentence contains toxic language.": 0.3333333333333333,
+            "Give me the definition of the word.": 0.3333333333333333,
+            "Give me the address of this person.": 0.3333333333333333,
+            "Come up with the synonyms of the word.": 0.3076923076923077
+        },
+        "avg_similarity_score": 0.12723372852149328
+    },
+    {
+        "instruction": "Rewrite the following sentence using a modal auxiliary",
+        "input": "You must not litter",
+        "output": "You mustn't litter.",
+        "most_similar_instructions": {
+            "Rewrite the following sentence to be more professional.": 0.5,
+            "Rewrite the following sentence in negative form: You must follow the rules": 0.4,
+            "Separate the following sentence into its main concepts": 0.375,
+            "Reword the following sentence to make it more concise": 0.35294117647058826,
+            "Rearrange the following sentence to make it grammatically correct": 0.35294117647058826,
+            "Answer the following question.": 0.3333333333333333,
+            "Summarize the following text": 0.3333333333333333,
+            "Rank the following universities.": 0.3333333333333333,
+            "Convert the following measurement.": 0.3333333333333333,
+            "Tell me if the following email is a promotion email.": 0.33333333333333326
+        },
+        "avg_similarity_score": 0.13630635703836907
+    },
+    {
+        "instruction": "Classify the following statement as true or false",
+        "input": "The sky is blue",
+        "output": "True.",
+        "most_similar_instructions": {
+            "Classify whether the following email is a spam or not. Output true or false.": 0.5454545454545454,
+            "Answer the following question.": 0.3333333333333333,
+            "Convert the following measurement.": 0.3333333333333333,
+            "Summarize the following text": 0.3333333333333333,
+            "Rank the following universities.": 0.3333333333333333,
+            "Verify if the claim is true or false based on factual knowledge. It false, explain why.": 0.3333333333333333,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.3157894736842105,
+            "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense.": 0.2962962962962963,
+            "Given some political opinions, classify whether the person belongs to Democrats or Republicans.": 0.2857142857142857,
+            "Generate a haiku using the following word:": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.1073020140713023
+    },
+    {
+        "instruction": "Convert the following sentence to passive voice",
+        "input": "She finished the exam",
+        "output": "The exam was finished by her.",
+        "most_similar_instructions": {
+            "Convert the following measurement.": 0.5454545454545454,
+            "Rewrite the following sentence to be more professional.": 0.5333333333333333,
+            "Reword the following sentence to make it more concise": 0.5,
+            "Rearrange the following sentence to make it grammatically correct": 0.5,
+            "Convert the following Celsius temperature to Fahrenheit: 16\u00b0C": 0.5,
+            "Rewrite the following sentence using a modal auxiliary": 0.39999999999999997,
+            "Separate the following sentence into its main concepts": 0.39999999999999997,
+            "Rank the following universities.": 0.36363636363636365,
+            "Answer the following question.": 0.36363636363636365,
+            "Summarize the following text": 0.36363636363636365
+        },
+        "avg_similarity_score": 0.13164240282167539
+    },
+    {
+        "instruction": "Provide an example of a simile",
+        "input": "",
+        "output": "He was as brave as a lion.",
+        "most_similar_instructions": {
+            "Give me an example of a time when you had to use your sense of humor.": 0.36363636363636365,
+            "Provide 3 possible solutions to a problem": 0.30769230769230765,
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.": 0.28571428571428575,
+            "Write a list of questions to start a conversation.": 0.26666666666666666,
+            "Describe the process of solving a Rubik's cube": 0.26666666666666666,
+            "Make a list of salty snacks with a soft texture.": 0.25,
+            "Give some examples of national dishes from a given country.": 0.25,
+            "Give a detailed description of a method for brainstorming an essay.": 0.23529411764705885,
+            "Calculate the area of a circle with a radius of 5 cm": 0.2222222222222222,
+            "Compare the advantages and disadvantages of renting an apartment vs buying a house": 0.21052631578947367
+        },
+        "avg_similarity_score": 0.08153429919265037
+    },
+    {
+        "instruction": "Describe the sound of a firecracker.",
+        "input": "",
+        "output": "The sound of a firecracker is a sharp, high-pitched crack followed by a loud, echoing bang.",
+        "most_similar_instructions": {
+            "Describe the process of solving a Rubik's cube": 0.5333333333333333,
+            "Explain the theory of relativity": 0.3636363636363636,
+            "Identify the type of sentence": 0.3636363636363636,
+            "Calculate the area of a circle with a radius of 5 cm": 0.3333333333333333,
+            "What is the capital of Thailand?": 0.3333333333333333,
+            "Provide an example of a simile": 0.3333333333333333,
+            "Explain the ending of given movie.": 0.3333333333333333,
+            "Compare the advantages and disadvantages of renting an apartment vs buying a house": 0.3157894736842105,
+            "Give me the address of this person.": 0.30769230769230765,
+            "Give me the definition of the word.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.14248039943119267
+    },
+    {
+        "instruction": "Where would a snowman feel most at home?",
+        "input": "",
+        "output": "A snowman would feel most at home in a cold, snowy environment, such as a northern forest or a mountain valley.",
+        "most_similar_instructions": {
+            "Which exercises are best for reducing belly fat at home?": 0.22222222222222224,
+            "How would you explain colors to a person born blind?": 0.22222222222222224,
+            "Tell me a dad joke that has three sentences, each containing at least a pun.": 0.1739130434782609,
+            "Create a birthday planning checklist.": 0.15384615384615385,
+            "Write a poem about friendship": 0.15384615384615385,
+            "Are you smarter than most redheads?": 0.14285714285714288,
+            "Describe the sound of a firecracker.": 0.14285714285714288,
+            "Provide an example of a simile": 0.14285714285714288,
+            "Generate a haiku using the following word:": 0.13333333333333333,
+            "Explain what quality makes a good leader": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.055034817774365946
+    },
+    {
+        "instruction": "Explain the concept of artificial intelligence.",
+        "input": "",
+        "output": "Artificial intelligence (AI) is the science of designing computer systems that are capable of perceiving their environment, learning from past experiences, and making decisions based on the data gathered. AI systems are designed to solve complex tasks such as natural language processing, image recognition, and robotics.",
+        "most_similar_instructions": {
+            "Explain the theory of relativity": 0.5454545454545454,
+            "Explain the ending of given movie.": 0.5,
+            "Explain the social stereotype of the following profession.": 0.42857142857142855,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.37499999999999994,
+            "Identify the type of sentence": 0.3636363636363636,
+            "What is the capital of Thailand?": 0.3333333333333333,
+            "Describe the sound of a firecracker.": 0.3333333333333333,
+            "Give me the definition of the word.": 0.30769230769230765,
+            "Give me the address of this person.": 0.30769230769230765,
+            "Explain the questions like I am 5.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.11651448003111325
+    },
+    {
+        "instruction": "Construct a sentence using the phrase \"once in a blue moon\".",
+        "input": "",
+        "output": "I only see my grandmother once in a blue moon.",
+        "most_similar_instructions": {
+            "Generate a haiku using the following word:": 0.33333333333333326,
+            "Rewrite the following sentence using a modal auxiliary": 0.3157894736842105,
+            "Write a sentence that ends with the word \"published\".": 0.3,
+            "find the toxic word or phrase in the sentence.": 0.3,
+            "Using the facts given, write a question-answer pair.": 0.3,
+            "Generate a one-sentence description for each of the following people.": 0.2727272727272727,
+            "Write a story that contains the given words in 4 sentences.": 0.2727272727272727,
+            "Make a one-sentence summarization of the paper based on the given information.": 0.24999999999999994,
+            "Generate a title for the paper given a description or abstract of its content.": 0.23999999999999996,
+            "Describe the sound of a firecracker.": 0.23529411764705885
+        },
+        "avg_similarity_score": 0.13044395766273092
+    },
+    {
+        "instruction": "Reorder the following list in ascending order.",
+        "input": "56, 79, 17, 40",
+        "output": "17, 40, 56, 79",
+        "most_similar_instructions": {
+            "Rank the following universities.": 0.36363636363636365,
+            "Convert the following measurement.": 0.36363636363636365,
+            "Answer the following question.": 0.36363636363636365,
+            "Summarize the following text": 0.36363636363636365,
+            "Add things to the list.": 0.3333333333333333,
+            "Sort the given list ascendingly.": 0.3333333333333333,
+            "Rewrite the following sentence in negative form: You must follow the rules": 0.3157894736842105,
+            "Select the oldest person from the list.": 0.2857142857142857,
+            "Expand the following outline into an article.": 0.2857142857142857,
+            "Generate a haiku using the following word:": 0.2857142857142857
+        },
+        "avg_similarity_score": 0.11671692148087279
+    },
+    {
+        "instruction": "Construct a sentence using the phrase \"in the nick of time\".",
+        "input": "",
+        "output": "I arrived just in the nick of time to save the day.",
+        "most_similar_instructions": {
+            "Construct a sentence using the phrase \"once in a blue moon\".": 0.6363636363636364,
+            "find the toxic word or phrase in the sentence.": 0.39999999999999997,
+            "Write a script in JavaScript for printing the current date and time.": 0.34782608695652173,
+            "Make a one-sentence summarization of the paper based on the given information.": 0.33333333333333337,
+            "Plan a syllabus for the the class.": 0.33333333333333326,
+            "Generate a haiku using the following word:": 0.33333333333333326,
+            "Diagnose the underlying problem in the following text": 0.3157894736842105,
+            "Write a sentence that ends with the word \"published\".": 0.3,
+            "Identify the bias or stereotype in the given prompt.": 0.3,
+            "Using the comment as a guide, replace the \"TODO\" comment in the code with the proper code.": 0.2857142857142857
+        },
+        "avg_similarity_score": 0.1560579859265788
+    },
+    {
+        "instruction": "Create a metaphor comparing a computer to an animal.",
+        "input": "",
+        "output": "A computer is like a hawk: sharp and powerful, able to see and process data quickly.",
+        "most_similar_instructions": {
+            "Give a detailed description of a method for brainstorming an essay.": 0.3,
+            "Create a monthly budget for a person in the given location.": 0.3,
+            "Write a python function that sorts a list from large to small.": 0.28571428571428575,
+            "Create a birthday planning checklist.": 0.2857142857142857,
+            "Create a fun math question for children.": 0.25,
+            "Use a positive stereotype to complete the sentence.": 0.23529411764705882,
+            "Use a counterstereotype to complete the given sentence.": 0.23529411764705882,
+            "Make a grocery list for a healthy meal.": 0.23529411764705882,
+            "You are given a list of features of a product, and you need to create its description.": 0.23076923076923078,
+            "Create a detailed budget for the given hypothetical trip.": 0.2222222222222222
+        },
+        "avg_similarity_score": 0.08284266020052623
+    },
+    {
+        "instruction": "How could you make a dish of lasagna healthier?",
+        "input": "",
+        "output": "One way to make a healthier lasagna dish is to reduce the amount of cheese, use a leaner ground meat, and substitute whole grain noodles for regular lasagna noodles.",
+        "most_similar_instructions": {
+            "Make up a new flavor of ice cream.": 0.35294117647058826,
+            "How do you answer this question in a job interview?": 0.3157894736842105,
+            "How would you explain colors to a person born blind?": 0.3157894736842105,
+            "Make a list of salty snacks with a soft texture.": 0.3157894736842105,
+            "Make a list of things to do in the given city.": 0.3,
+            "Make a one-sentence summarization of the paper based on the given information.": 0.27272727272727276,
+            "Make a grocery list for a healthy meal.": 0.23529411764705882,
+            "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me?": 0.23076923076923078,
+            "You are given a list of features of a product, and you need to create its description.": 0.23076923076923078,
+            "Brainstorm a list of possible New Year's resolutions.": 0.2222222222222222
+        },
+        "avg_similarity_score": 0.08395709669308357
+    },
+    {
+        "instruction": "Think of an invention that could change the world.",
+        "input": "",
+        "output": "An invention that could change the world would be a device that can monitor the environment and provide real-time data about pollution levels in major cities. It could also provide feedback on how to reduce the environmental impact of everyday activities.",
+        "most_similar_instructions": {
+            "Give me the definition of the word.": 0.25,
+            "Write the adjectives that represent the given religions.": 0.23529411764705882,
+            "Explain the social stereotype of the following profession.": 0.23529411764705882,
+            "Come up with the synonyms of the word.": 0.23529411764705882,
+            "Write a sentence that ends with the word \"published\".": 0.2222222222222222,
+            "Generate an appropriate subjective title for the following email:": 0.2222222222222222,
+            "Name three vegetables that start with the letter 'C'": 0.2222222222222222,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.2105263157894737,
+            "Give a detailed description of a method for brainstorming an essay.": 0.19999999999999998,
+            "Generate a one-sentence description for each of the following people.": 0.19999999999999998
+        },
+        "avg_similarity_score": 0.09770650219274549
+    },
+    {
+        "instruction": "What is a running stitch?",
+        "input": "",
+        "output": "A running stitch is a basic stitching technique, commonly used in sewing, in which the needle and thread move in and out of the fabric in a continuous straight line.",
+        "most_similar_instructions": {
+            "What is the capital of Thailand?": 0.3636363636363636,
+            "Explain what quality makes a good leader": 0.3333333333333333,
+            "What is the relation between the given pairs?": 0.3076923076923077,
+            "Tell me if the following email is a promotion email.": 0.26666666666666666,
+            "Classify whether the following email is a spam or not. Output true or false.": 0.21052631578947364,
+            "Write a poem about friendship": 0.20000000000000004,
+            "Create a birthday planning checklist.": 0.20000000000000004,
+            "Is working part-time a good idea for teenagers between 15 and 19 years old?": 0.2,
+            "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.": 0.19047619047619047,
+            "Describe the sound of a firecracker.": 0.1818181818181818
+        },
+        "avg_similarity_score": 0.07701552542070873
+    },
+    {
+        "instruction": "Write a limerick about a train.",
+        "input": "",
+        "output": "There once was a train, old and slow\nIt crawled long the tracks in the snow\nIt groaned and complained\nBut always remained\nA train forever, wherever it goes.",
+        "most_similar_instructions": {
+            "Write a poem about friendship": 0.5454545454545454,
+            "Write a knock knock joke about bananas.": 0.4615384615384615,
+            "Write a review about the new movie \"Joker\"": 0.42857142857142855,
+            "Write a list of questions to start a conversation.": 0.4,
+            "Write a python function that sorts a list from large to small.": 0.3333333333333333,
+            "You need to write a creative opening scene for a horror movie.": 0.3333333333333333,
+            "Give me a joke about PhD. Try to make a long joke.": 0.3333333333333333,
+            "Find and state information about a country": 0.30769230769230765,
+            "Write a conversation based on the given facts.": 0.28571428571428575,
+            "Make a grocery list for a healthy meal.": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.09115342007941513
+    },
+    {
+        "instruction": "Predict what the next Apple product will be.",
+        "input": "",
+        "output": "It is likely that the next Apple product will be a new type of device with the latest technology, such as an augmented reality headset or an AI-assisted voice assistant.",
+        "most_similar_instructions": {
+            "What is the capital of Thailand?": 0.28571428571428575,
+            "What is the relation between the given pairs?": 0.25,
+            "Rewrite the following sentence to be more professional.": 0.25,
+            "In your opinion, what are the qualities of an effective sports coach?": 0.2,
+            "Given my personality and the job, tell me if I would be suitable.": 0.1904761904761905,
+            "Complete the lyrics.": 0.18181818181818182,
+            "Extract all the place names from the paragraph. Different places should be separated by semicolons.": 0.1739130434782609,
+            "Convert the following measurement.": 0.16666666666666666,
+            "Summarize the following text": 0.16666666666666666,
+            "Rank the following universities.": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.08189743461316386
+    },
+    {
+        "instruction": "Classify the following as either a fruit or vegetable.",
+        "input": "Tomato",
+        "output": "Fruit",
+        "most_similar_instructions": {
+            "Classify the following statement as true or false": 0.5882352941176471,
+            "Classify whether the following email is a spam or not. Output true or false.": 0.43478260869565216,
+            "Rewrite the following sentence using a modal auxiliary": 0.35294117647058826,
+            "Fill in the blank with a word or phrase.": 0.3333333333333333,
+            "Answer the following multiple choice question. Select A, B, C, or D for the final answer.": 0.32,
+            "Tell me if the following email is a promotion email.": 0.3157894736842105,
+            "Convert the following measurement.": 0.30769230769230765,
+            "Rank the following universities.": 0.30769230769230765,
+            "Summarize the following text": 0.30769230769230765,
+            "Answer the following question.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.13450095316680336
+    },
+    {
+        "instruction": "What is the longest river in the world?",
+        "input": "",
+        "output": "The longest river in the world is the Nile, which stretches 6,853 kilometers (4,258 miles) through Egypt, Sudan, and Ethiopia.",
+        "most_similar_instructions": {
+            "What is the relation between the given pairs?": 0.5,
+            "What is the capital of Thailand?": 0.42857142857142855,
+            "Diagnose the underlying problem in the following text": 0.375,
+            "find the toxic word or phrase in the sentence.": 0.35294117647058826,
+            "Identify the bias or stereotype in the given prompt.": 0.35294117647058826,
+            "Replace all the human names in the paragraph with <anonymized>.": 0.33333333333333326,
+            "Replace the placeholders in the given text with appropriate named entities.": 0.3157894736842105,
+            "Construct a sentence using the phrase \"in the nick of time\".": 0.3157894736842105,
+            "Identify the pos tag of the word in the given sentence.": 0.3157894736842105,
+            "What is a running stitch?": 0.3076923076923077
+        },
+        "avg_similarity_score": 0.1251105196470951
+    },
+    {
+        "instruction": "Re-write the following sentence in active voice.",
+        "input": "The test was taken by the students.",
+        "output": "The students took the test.",
+        "most_similar_instructions": {
+            "Convert the following sentence to passive voice": 0.5333333333333333,
+            "Rewrite the following sentence in negative form: You must follow the rules": 0.4,
+            "Reorder the following list in ascending order.": 0.39999999999999997,
+            "Rewrite the following sentence to be more professional.": 0.375,
+            "Separate the following sentence into its main concepts": 0.375,
+            "Rewrite the following sentence using a modal auxiliary": 0.375,
+            "Rearrange the following sentence to make it grammatically correct": 0.35294117647058826,
+            "Reword the following sentence to make it more concise": 0.35294117647058826,
+            "Rank the following universities.": 0.3333333333333333,
+            "Summarize the following text": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.1309112051235456
+    },
+    {
+        "instruction": "Identify the hypernym for the given words.",
+        "input": "Kill, Murder",
+        "output": "Kill and murder are both forms of homicide.",
+        "most_similar_instructions": {
+            "Identify the bias or stereotype in the given prompt.": 0.5,
+            "Identify the pos tag of the word in the given sentence.": 0.4444444444444444,
+            "Return the SSN number for the person.": 0.42857142857142855,
+            "Write the adjectives that represent the given religions.": 0.39999999999999997,
+            "What is the relation between the given pairs?": 0.39999999999999997,
+            "Create a detailed budget for the given hypothetical trip.": 0.375,
+            "Write a recipe for the given ingredients that I have.": 0.3529411764705882,
+            "Sort the given list ascendingly.": 0.3333333333333333,
+            "Identify the type of sentence": 0.3333333333333333,
+            "Replace the placeholders in the given text with appropriate named entities.": 0.33333333333333326
+        },
+        "avg_similarity_score": 0.1363387871306262
+    },
+    {
+        "instruction": "Unscramble the words and construct a meaningful sentence",
+        "input": "meantimes rush the",
+        "output": "In the meantime, rush.",
+        "most_similar_instructions": {
+            "Construct a sentence using the phrase \"in the nick of time\".": 0.3157894736842105,
+            "Construct a sentence using the phrase \"once in a blue moon\".": 0.3157894736842105,
+            "Identify the type of sentence": 0.3076923076923077,
+            "Translate the English sentence into Chinese.": 0.28571428571428575,
+            "Describe the sound of a firecracker.": 0.28571428571428575,
+            "Compare the advantages and disadvantages of renting an apartment vs buying a house": 0.2857142857142857,
+            "Identify the hypernym for the given words.": 0.26666666666666666,
+            "Summarize this email into a single sentence:": 0.26666666666666666,
+            "Find and state information about a country": 0.26666666666666666,
+            "Convert the following sentence to passive voice": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.13581493867960664
+    },
+    {
+        "instruction": "The sentence is incomplete because of punctuation. Edit the sentence so that it is properly punctuated.",
+        "input": "I like apples but oranges",
+        "output": "I like apples, but I like oranges too.",
+        "most_similar_instructions": {
+            "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors.": 0.30303030303030304,
+            "Identify the pos tag of the word in the given sentence.": 0.2962962962962963,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.2962962962962963,
+            "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.": 0.29411764705882354,
+            "Identify the type of sentence": 0.2857142857142857,
+            "Give me the definition of the word.": 0.26086956521739124,
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.": 0.2580645161290323,
+            "Come up with the synonyms of the word.": 0.25,
+            "Explain the social stereotype of the following profession.": 0.25,
+            "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.": 0.25
+        },
+        "avg_similarity_score": 0.11024932876862593
+    },
+    {
+        "instruction": "Find a synonym for the given word.",
+        "input": "Lament",
+        "output": "Mourn.",
+        "most_similar_instructions": {
+            "Create a detailed budget for the given hypothetical trip.": 0.5,
+            "Write a recipe for the given ingredients that I have.": 0.47058823529411764,
+            "Create a monthly budget for a person in the given location.": 0.4444444444444444,
+            "Plan a syllabus for the the class.": 0.42857142857142855,
+            "Identify the hypernym for the given words.": 0.42857142857142855,
+            "Generate a haiku using the following word:": 0.42857142857142855,
+            "Write a conversation based on the given facts.": 0.39999999999999997,
+            "Use a counterstereotype to complete the given sentence.": 0.39999999999999997,
+            "Suggest a completion for the following python code.": 0.39999999999999997,
+            "Generate a title for the paper given a description or abstract of its content.": 0.38095238095238093
+        },
+        "avg_similarity_score": 0.16507440108739377
+    },
+    {
+        "instruction": "Match the given words with their respective antonyms.",
+        "input": "Pleasant - Gross",
+        "output": "Pleasant - Gross.",
+        "most_similar_instructions": {
+            "Identify the hypernym for the given words.": 0.39999999999999997,
+            "Replace the placeholders in the given text with appropriate named entities.": 0.3157894736842105,
+            "Write a story that contains the given words in 4 sentences.": 0.3157894736842105,
+            "Sort the given list ascendingly.": 0.3076923076923077,
+            "Explain the ending of given movie.": 0.28571428571428575,
+            "Complete the paragraph given its prefix.": 0.28571428571428575,
+            "Find a synonym for the given word.": 0.26666666666666666,
+            "Unscramble the words and construct a meaningful sentence": 0.25,
+            "What is the relation between the given pairs?": 0.25,
+            "Write a conversation based on the given facts.": 0.25
+        },
+        "avg_similarity_score": 0.10118604922505987
+    },
+    {
+        "instruction": "Complete the following sentence with appropriate words.",
+        "input": "If I had...",
+        "output": "If I had more time, I would have done more.",
+        "most_similar_instructions": {
+            "Convert the following sentence to passive voice": 0.42857142857142855,
+            "Complete the lyrics.": 0.4,
+            "Use a counterstereotype to complete the given sentence.": 0.39999999999999997,
+            "Rewrite the following sentence using a modal auxiliary": 0.39999999999999997,
+            "Rewrite the following sentence to be more professional.": 0.39999999999999997,
+            "Use a positive stereotype to complete the sentence.": 0.39999999999999997,
+            "Separate the following sentence into its main concepts": 0.39999999999999997,
+            "Summarize the following document with several bullet points.": 0.39999999999999997,
+            "Re-write the following sentence in active voice.": 0.39999999999999997,
+            "Rearrange the following sentence to make it grammatically correct": 0.375
+        },
+        "avg_similarity_score": 0.12919365243490433
+    },
+    {
+        "instruction": "Come up with a creative headline that summarizes the given passage",
+        "input": "A new study has found that children are spending way too much time on their phones each day",
+        "output": "\"Kids' Digital Overuse: A Pandemic of Its Own\".",
+        "most_similar_instructions": {
+            "Come up with a metaphor that can describe my situation.": 0.47619047619047616,
+            "Come up with the synonyms of the word.": 0.4210526315789474,
+            "Write a story that contains the given words in 4 sentences.": 0.36363636363636365,
+            "Come up with a question and a funny answer as a joke.": 0.34782608695652173,
+            "Try coming up with a creative way to stay motivated during a workout.": 0.33333333333333337,
+            "Find a synonym for the given word.": 0.33333333333333326,
+            "Write the adjectives that represent the given religions.": 0.3157894736842105,
+            "Write a conversation based on the given facts.": 0.3157894736842105,
+            "Use a counterstereotype to complete the given sentence.": 0.3157894736842105,
+            "Write a cover letter based on the given facts.": 0.3
+        },
+        "avg_similarity_score": 0.13219506056860844
+    },
+    {
+        "instruction": "Select the words which are out of the context.",
+        "input": "Winter, Wind, Rain, Clothes",
+        "output": "Clothes.",
+        "most_similar_instructions": {
+            "Select the oldest person from the list.": 0.375,
+            "Give me the definition of the word.": 0.375,
+            "Explain the social stereotype of the following profession.": 0.35294117647058826,
+            "Come up with the synonyms of the word.": 0.35294117647058826,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.3157894736842105,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.3,
+            "Identify the pos tag of the word in the given sentence.": 0.3,
+            "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.": 0.2962962962962963,
+            "Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token.": 0.29411764705882354,
+            "Explain the theory of relativity": 0.2857142857142857
+        },
+        "avg_similarity_score": 0.12551969415036293
+    },
+    {
+        "instruction": "Paraphrase the given sentence",
+        "input": "This videogame has outsold all others",
+        "output": "This videogame has surpassed the sales of all other games.",
+        "most_similar_instructions": {
+            "Use a counterstereotype to complete the given sentence.": 0.5,
+            "Identify the type of sentence": 0.4444444444444445,
+            "Sort the given list ascendingly.": 0.4444444444444445,
+            "Complete the paragraph given its prefix.": 0.4,
+            "Explain the ending of given movie.": 0.4,
+            "Translate the English sentence into Chinese.": 0.4,
+            "Identify the pos tag of the word in the given sentence.": 0.39999999999999997,
+            "Identify the hypernym for the given words.": 0.36363636363636365,
+            "Tell if the sentence contains toxic language.": 0.36363636363636365,
+            "Find a synonym for the given word.": 0.36363636363636365
+        },
+        "avg_similarity_score": 0.1386360930488455
+    },
+    {
+        "instruction": "Compose a tweet-length argument to support the given statement.",
+        "input": "Women should be allowed to serve in the military",
+        "output": "Women should be allowed to serve in the military, as they have proven to be strong, brave, and capable leaders. #equality #Feminism #WomeninMilitary",
+        "most_similar_instructions": {
+            "Use a counterstereotype to complete the given sentence.": 0.4444444444444445,
+            "Make a list of things to do in the given city.": 0.380952380952381,
+            "Find a synonym for the given word.": 0.3529411764705882,
+            "Use a positive stereotype to complete the sentence.": 0.33333333333333326,
+            "Write a conversation based on the given facts.": 0.33333333333333326,
+            "Create a detailed budget for the given hypothetical trip.": 0.3157894736842105,
+            "Write a cover letter based on the given facts.": 0.3157894736842105,
+            "Generate a correct python program to fulfill the following purpose:": 0.3,
+            "Write a recipe for the given ingredients that I have.": 0.3,
+            "Paraphrase the given sentence": 0.28571428571428575
+        },
+        "avg_similarity_score": 0.1364219694583704
+    },
+    {
+        "instruction": "Find the degree of comparison for the given word",
+        "input": "Suffer",
+        "output": "Suffer is a regular verb so it does not have a degree of comparison.",
+        "most_similar_instructions": {
+            "Find a synonym for the given word.": 0.6250000000000001,
+            "Give me the definition of the word.": 0.5,
+            "Identify the hypernym for the given words.": 0.5,
+            "Come up with the synonyms of the word.": 0.47058823529411764,
+            "Explain the ending of given movie.": 0.4,
+            "Identify the pos tag of the word in the given sentence.": 0.39999999999999997,
+            "Return the SSN number for the person.": 0.375,
+            "Explain the social stereotype of the following profession.": 0.35294117647058826,
+            "Write the adjectives that represent the given religions.": 0.35294117647058826,
+            "What is the relation between the given pairs?": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.15262597621079413
+    },
+    {
+        "instruction": "Construct a multiple choice question based on the given facts.",
+        "input": "The novel \"To Kill a Mockingbird\" was written by Harper Lee.",
+        "output": "Which author wrote the novel \"To Kill a Mockingbird\"?\nA. Mark Twain\nB. J.D. Salinger\nC. Harper Lee\nD. Ernest Hemingway",
+        "most_similar_instructions": {
+            "Write a conversation based on the given facts.": 0.6666666666666665,
+            "Write a cover letter based on the given facts.": 0.631578947368421,
+            "Make a one-sentence summarization of the paper based on the given information.": 0.4347826086956522,
+            "Find a synonym for the given word.": 0.3529411764705882,
+            "Use a counterstereotype to complete the given sentence.": 0.33333333333333326,
+            "Generate the regular expression based on the description.": 0.33333333333333326,
+            "Create a detailed budget for the given hypothetical trip.": 0.3157894736842105,
+            "Answer the following multiple choice question. Select A, B, C, or D for the final answer.": 0.3076923076923077,
+            "Compose a tweet-length argument to support the given statement.": 0.3,
+            "Write a recipe for the given ingredients that I have.": 0.3
+        },
+        "avg_similarity_score": 0.13420200318786207
+    },
+    {
+        "instruction": "Differentiate between the words in the given pair",
+        "input": "Obligate and Compel",
+        "output": "Obligate means to bind or force someone to do something whereas compel means to force someone to do something by using persuasive methods.",
+        "most_similar_instructions": {
+            "Identify the bias or stereotype in the given prompt.": 0.47058823529411764,
+            "Identify the pos tag of the word in the given sentence.": 0.4210526315789474,
+            "Replace the placeholders in the given text with appropriate named entities.": 0.4210526315789474,
+            "Identify the hypernym for the given words.": 0.39999999999999997,
+            "Diagnose the underlying problem in the following text": 0.375,
+            "Write the adjectives that represent the given religions.": 0.375,
+            "What is the relation between the given pairs?": 0.375,
+            "What is the longest river in the world?": 0.375,
+            "Using the facts given, write a question-answer pair.": 0.35294117647058826,
+            "find the toxic word or phrase in the sentence.": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.13787316542831773
+    },
+    {
+        "instruction": "Construct a sentence using the given words",
+        "input": "Fluster, Affront",
+        "output": "He was flustered by her affront.",
+        "most_similar_instructions": {
+            "Construct a sentence using the phrase \"once in a blue moon\".": 0.5555555555555556,
+            "Construct a sentence using the phrase \"in the nick of time\".": 0.5555555555555556,
+            "Construct a multiple choice question based on the given facts.": 0.47058823529411764,
+            "Write a story that contains the given words in 4 sentences.": 0.4444444444444444,
+            "Find a synonym for the given word.": 0.42857142857142855,
+            "Identify the hypernym for the given words.": 0.42857142857142855,
+            "Generate a haiku using the following word:": 0.42857142857142855,
+            "Make a one-sentence summarization of the paper based on the given information.": 0.4,
+            "Write a conversation based on the given facts.": 0.39999999999999997,
+            "Match the given words with their respective antonyms.": 0.39999999999999997
+        },
+        "avg_similarity_score": 0.1635648851458653
+    },
+    {
+        "instruction": "Identify the theme of the short story below.",
+        "input": "John was born to a poor family in a small rural village. Growing up, he was always filled with curiosity and had an insatiable appetite for knowledge. He often felt overwhelmed by his surroundings, wishing for something more. After a difficult journey, John eventually moved to the big city and went on to become a successful scientist.",
+        "output": "The theme of the short story is that of striving for a better future despite difficult beginnings. It also highlights the power of knowledge and curiosity to drive a person to succeed. It emphasizes the importance of self-determination and having a vision to reach one's goals.",
+        "most_similar_instructions": {
+            "Identify the type of sentence": 0.4615384615384615,
+            "Identify the pos tag of the word in the given sentence.": 0.4210526315789474,
+            "Give me the definition of the word.": 0.39999999999999997,
+            "Identify the hypernym for the given words.": 0.39999999999999997,
+            "Explain the social stereotype of the following profession.": 0.375,
+            "Come up with the synonyms of the word.": 0.375,
+            "Identify the bias or stereotype in the given prompt.": 0.35294117647058826,
+            "Find the degree of comparison for the given word": 0.35294117647058826,
+            "Select the words which are out of the context.": 0.35294117647058826,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.33333333333333326
+        },
+        "avg_similarity_score": 0.12875828895102573
+    },
+    {
+        "instruction": "Summarize the key points of the article provided.",
+        "input": "This article looks at the implications of the increasing presence of artificial intelligence (AI) in healthcare. AI can help to reduce costs and improve patient diagnosis by offering more precise and efficient analysis of data. It can also make it easier for doctors to determine the best treatments for patients, and provide personalized healthcare solutions. However, it is important to note the potential privacy issues, ethical implications, and disparities that AI can bring, and that healthcare regulations should be put in place accordingly.",
+        "output": "AI can help improve healthcare by making diagnosis and treatment more efficient. But its use can bring privacy risks, ethical implications and disparities, and so regulations must be in place to protect patients. There is potential for AI to reduce costs and offer personalized healthcare solutions, but care must be taken to ensure that the technology is used appropriately.",
+        "most_similar_instructions": {
+            "Give me the definition of the word.": 0.39999999999999997,
+            "Come up with the synonyms of the word.": 0.375,
+            "Summarize the following document with several bullet points.": 0.375,
+            "Identify the theme of the short story below.": 0.375,
+            "Explain the social stereotype of the following profession.": 0.375,
+            "Find the degree of comparison for the given word": 0.35294117647058826,
+            "Select the words which are out of the context.": 0.35294117647058826,
+            "Summarize the following text": 0.3333333333333333,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.33333333333333326,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.12954015215147463
+    },
+    {
+        "instruction": "Generate a creative title for the paper given the following context.",
+        "input": "The paper discusses the importance of collaboration in the workplace.",
+        "output": "\"Teamwork: The Key to Successful Corporate Culture\".",
+        "most_similar_instructions": {
+            "Generate a title for the paper given a description or abstract of its content.": 0.56,
+            "Generate an appropriate subjective title for the following email:": 0.5,
+            "Generate a one-sentence description for each of the following people.": 0.45454545454545453,
+            "Plan a syllabus for the the class.": 0.4444444444444444,
+            "Find a synonym for the given word.": 0.4444444444444444,
+            "Generate a haiku using the following word:": 0.4444444444444444,
+            "Generate a response given the previous chat history.": 0.4210526315789474,
+            "Suggest a completion for the following python code.": 0.4210526315789474,
+            "Create a detailed budget for the given hypothetical trip.": 0.39999999999999997,
+            "Give me a cooking recipe for the following food.": 0.39999999999999997
+        },
+        "avg_similarity_score": 0.17245971578734437
+    },
+    {
+        "instruction": "Describe the character trait of a person who is patient.",
+        "input": "",
+        "output": "Someone who is patient is usually calm, understanding, and tolerant, even in difficult or challenging situations. They are happy to take the time to listen to others without judgement and value the importance of patience in handling difficult or frustrated situations. They focus on being kind and respectful to others and have the ability to remain level-headed despite the circumstances.",
+        "most_similar_instructions": {
+            "Describe the sound of a firecracker.": 0.5,
+            "Describe the process of solving a Rubik's cube": 0.4210526315789474,
+            "Give me the address of this person.": 0.3529411764705882,
+            "Calculate the area of a circle with a radius of 5 cm": 0.2727272727272727,
+            "Explain the theory of relativity": 0.26666666666666666,
+            "Identify the type of sentence": 0.26666666666666666,
+            "Compare the advantages and disadvantages of renting an apartment vs buying a house": 0.2608695652173913,
+            "Explain the ending of given movie.": 0.25,
+            "What is the capital of Thailand?": 0.25,
+            "Provide an example of a simile": 0.25
+        },
+        "avg_similarity_score": 0.1271552914857574
+    },
+    {
+        "instruction": "What is the critical role of a project manager in an organization?",
+        "input": "",
+        "output": "The critical role of a project manager in an organization is to ensure that the project is completed on time, on budget, and to the required quality specifications. They are responsible for planning, organizing, motivating, and controlling the team of people working on the project. They must be adept at making decisions, delegating tasks, anticipating and mitigating potential risks, and coordinating between disparate stakeholders. They must also ensure that the project goals are met within the budget and the timeline and adhere to the accepted standards and regulations.",
+        "most_similar_instructions": {
+            "What is the capital of Thailand?": 0.4444444444444444,
+            "What is the longest river in the world?": 0.4,
+            "What is a running stitch?": 0.35294117647058826,
+            "In your opinion, what are the qualities of an effective sports coach?": 0.3333333333333333,
+            "Describe the sound of a firecracker.": 0.3333333333333333,
+            "What is the relation between the given pairs?": 0.3,
+            "Describe the process of solving a Rubik's cube": 0.28571428571428575,
+            "Describe the character trait of a person who is patient.": 0.2727272727272727,
+            "Determine the average cost of a gallon of milk purchased in California in the month of March 2019.": 0.26666666666666666,
+            "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.13058949131769582
+    },
+    {
+        "instruction": "Outline the steps of the scientific method.",
+        "input": "",
+        "output": "The scientific method is a systematic process for investigating and understanding the physical world. It consists of the following steps: identifying a problem or research question; forming a hypothesis; conducting research and experiments; analyzing and interpreting the results; drawing a conclusion; and reporting the findings.",
+        "most_similar_instructions": {
+            "Give me the definition of the word.": 0.42857142857142855,
+            "Explain the social stereotype of the following profession.": 0.39999999999999997,
+            "Summarize the key points of the article provided.": 0.39999999999999997,
+            "Identify the theme of the short story below.": 0.39999999999999997,
+            "Come up with the synonyms of the word.": 0.39999999999999997,
+            "Select the words which are out of the context.": 0.375,
+            "Find the degree of comparison for the given word": 0.375,
+            "Explain the meaning of the song \"Ain't No Sunshine\"": 0.3529411764705882,
+            "Identify the type of sentence": 0.3333333333333333,
+            "Explain the theory of relativity": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.1368984224488293
+    },
+    {
+        "instruction": "Identify the different types of clouds.",
+        "input": "",
+        "output": "There are three main categories of clouds: cumulus, stratus, and cirrus. Cumulus clouds are large, fluffy piles of clouds that often look like cotton balls. Stratus clouds are low and often gray clouds that usually cover the entire sky. Cirrus clouds are thin, wispy clouds generally found high in the sky. They can also sometimes appear as rainstorms, usually with a layer of stratus clouds beneath them.",
+        "most_similar_instructions": {
+            "Identify the type of sentence": 0.5454545454545454,
+            "Identify the theme of the short story below.": 0.42857142857142855,
+            "Explain the theory of relativity": 0.3636363636363636,
+            "Identify the pos tag of the word in the given sentence.": 0.3529411764705882,
+            "Explain the ending of given movie.": 0.3333333333333333,
+            "Explain the concept of artificial intelligence.": 0.3333333333333333,
+            "What is the capital of Thailand?": 0.3333333333333333,
+            "Describe the sound of a firecracker.": 0.3333333333333333,
+            "Give me the definition of the word.": 0.30769230769230765,
+            "Identify the hypernym for the given words.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.11885378642983926
+    },
+    {
+        "instruction": "Generate a sales pitch for a company that provides web-based software development services.",
+        "input": "",
+        "output": "At ABC Software, our team of web developers have extensive experience in providing custom web-based software solutions. Our services span from basic website design to sophisticated and complex software integration. We are committed to meeting our clients' needs and making sure that their projects are completed in a timely, cost-effective manner. Our team is highly experienced in the latest technologies and designs, ensuring a top-notch experience for our customers. With our proactive approach, we can save you time and money, while delivering the best possible results.",
+        "most_similar_instructions": {
+            "Generate a title for the paper given a description or abstract of its content.": 0.2857142857142857,
+            "Make a grocery list for a healthy meal.": 0.2727272727272727,
+            "Write a recipe for the given ingredients that I have.": 0.25,
+            "Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients.": 0.25,
+            "Generate a one-sentence description for each of the following people.": 0.23999999999999996,
+            "Generate a creative title for the paper given the following context.": 0.23999999999999996,
+            "Create a monthly budget for a person in the given location.": 0.23999999999999996,
+            "You need to write a creative opening scene for a horror movie.": 0.23076923076923075,
+            "Write a review for a blender presents a safety issue because a blade broke off.": 0.20689655172413796,
+            "Write a limerick about a train.": 0.2
+        },
+        "avg_similarity_score": 0.07091644233305773
+    },
+    {
+        "instruction": "Construct a logical argument for using a content delivery network (CDN) for a website.",
+        "input": "",
+        "output": "Using a Content Delivery Network (CDN) is a beneficial choice for any website. CDNs are networks of distributed servers that provide cached versions of website content. This means that the content is stored on the server closest to the user, reducing latency and resulting in a faster loading speed. Additionally, CDNs can handle large amounts of user requests simultaneously without slowing down the website. This ensures that the website is always available, even during a heavy load of traffic. Ultimately, CDNs can improve the user experience and make a website more successful by providing fast and reliable content delivery.",
+        "most_similar_instructions": {
+            "Construct a sentence using the phrase \"once in a blue moon\".": 0.32,
+            "Generate a title for the paper given a description or abstract of its content.": 0.2857142857142857,
+            "Construct a sentence using the given words": 0.2857142857142857,
+            "Write a review for a blender presents a safety issue because a blade broke off.": 0.2758620689655172,
+            "Make a grocery list for a healthy meal.": 0.2727272727272727,
+            "Create a monthly budget for a person in the given location.": 0.23999999999999996,
+            "Construct a sentence using the phrase \"in the nick of time\".": 0.23999999999999996,
+            "Give a detailed description of a method for brainstorming an essay.": 0.23999999999999996,
+            "You need to write a creative opening scene for a horror movie.": 0.23076923076923075,
+            "Come up with a question and a funny answer as a joke.": 0.23076923076923075
+        },
+        "avg_similarity_score": 0.06727015852250003
+    },
+    {
+        "instruction": "Design a logo for a software development start-up.",
+        "input": "",
+        "output": "The logo should incorporate a modern, tech-oriented style, with vibrant colors such as blue and green. The image should incorporate the letters \u201cSD\u201d in a bold font to hint at the company's software development roots. Additionally, the logo should feature an abstract image or symbol to capture the essence of the company while still being recognizable, perhaps a sleek geometric shape representing a coding algorithm.",
+        "most_similar_instructions": {
+            "Generate a sales pitch for a company that provides web-based software development services.": 0.43478260869565216,
+            "Make a grocery list for a healthy meal.": 0.35294117647058826,
+            "Create a monthly budget for a person in the given location.": 0.3,
+            "You need to write a creative opening scene for a horror movie.": 0.28571428571428575,
+            "Write a limerick about a train.": 0.26666666666666666,
+            "Generate a title for the paper given a description or abstract of its content.": 0.2608695652173913,
+            "Construct a logical argument for using a content delivery network (CDN) for a website.": 0.2608695652173913,
+            "Find a synonym for the given word.": 0.25,
+            "Design a chess puzzle in FEN Notation.": 0.25,
+            "Create a fun math question for children.": 0.25
+        },
+        "avg_similarity_score": 0.07814878076406805
+    },
+    {
+        "instruction": "Compose an introductory email to reach out to a potential customer.",
+        "input": "",
+        "output": "Dear [Name],\n\nI am writing to introduce myself and the services offered by [Company Name]. We are an online software provider focused on providing cost-effective solutions for small and medium-sized businesses. Our experience and dedication to customer service make us the ideal partner for our customers.\n\nWe would be happy to discuss how our services could be tailored to your business needs to provide the best possible experience. I would be delighted to sit down with you and explore our options and answer any questions that you may have.\n\nThank you for your time. I look forward to speaking with you soon. \n\nSincerely,\n\n[Name]",
+        "most_similar_instructions": {
+            "Turn down a job offer by sending an email to a recruiter explaining the reason.": 0.30769230769230765,
+            "Provide an example of a simile": 0.23529411764705885,
+            "Provide 3 possible solutions to a problem": 0.2222222222222222,
+            "Summarize this email into a single sentence:": 0.2222222222222222,
+            "Explain to me why a natural phenomenon happen.": 0.2105263157894737,
+            "Generate an appropriate subjective title for the following email:": 0.19999999999999998,
+            "Write a list of questions to start a conversation.": 0.19999999999999998,
+            "Compose a tweet-length argument to support the given statement.": 0.1904761904761905,
+            "Tell me if the following email is a promotion email.": 0.1904761904761905,
+            "How would you explain colors to a person born blind?": 0.1904761904761905
+        },
+        "avg_similarity_score": 0.06749793331175459
+    },
+    {
+        "instruction": "Construct a persuasive argument supporting the use of renewable energy sources instead of fossil fuels.",
+        "input": "",
+        "output": "Using renewable energy sources such as solar, wind, or hydropower is a necessity, as it is the most sustainable and responsible option. Renewable energy sources are more reliable and can provide a steady, resilient supply of power at a much lower cost than fossil fuels. Additionally, they provide significant environmental benefits, such as lowering greenhouse gas emissions and helping to preserve habitats. Lastly, harnessing renewable energy sources is essential for a healthier and more secure future. To ensure a safer and more prosperous future, now is the time to make the switch to more sustainable energy sources.",
+        "most_similar_instructions": {
+            "Construct a sentence using the phrase \"in the nick of time\".": 0.30769230769230765,
+            "Construct a sentence using the given words": 0.27272727272727276,
+            "Construct a multiple choice question based on the given facts.": 0.24,
+            "Compose a tweet-length argument to support the given statement.": 0.24,
+            "Construct a sentence using the phrase \"once in a blue moon\".": 0.23076923076923075,
+            "Calculate the area of a circle with a radius of 5 cm": 0.22222222222222224,
+            "Write a program to compute the sum of integers from k to n.": 0.21428571428571427,
+            "Generate a title for the paper given a description or abstract of its content.": 0.20689655172413796,
+            "Construct a logical argument for using a content delivery network (CDN) for a website.": 0.20689655172413796,
+            "Identify the type of sentence": 0.2
+        },
+        "avg_similarity_score": 0.10835746670335869
+    },
+    {
+        "instruction": "Create a list of the different types of computer networks.",
+        "input": "",
+        "output": "The different types of computer networks are: Local Area Network (LAN), Metropolitan Area Network (MAN), Wide Area Network (WAN), Wireless Local Area Network (WLAN), Mobile Local Area Network (MLAN), Virtual Private Network (VPN), System Area Network (SAN), and Storage Area Network (SAN).",
+        "most_similar_instructions": {
+            "Identify the different types of clouds.": 0.5,
+            "Make a list of things to do in the given city.": 0.380952380952381,
+            "Create a detailed budget for the given hypothetical trip.": 0.3157894736842105,
+            "Create a metaphor comparing a computer to an animal.": 0.3157894736842105,
+            "Write a list of questions to start a conversation.": 0.3157894736842105,
+            "Brainstorm a list of possible New Year's resolutions.": 0.3157894736842105,
+            "Make a list of salty snacks with a soft texture.": 0.3,
+            "You are given a list of features of a product, and you need to create its description.": 0.29629629629629634,
+            "Determine the average cost of a gallon of milk purchased in California in the month of March 2019.": 0.2857142857142857,
+            "Generate a one-sentence description for each of the following people.": 0.28571428571428564
+        },
+        "avg_similarity_score": 0.14199726138148444
+    },
+    {
+        "instruction": "Analyze the differences between a client-server network and a peer-to-peer network.",
+        "input": "",
+        "output": "A client-server network is based on a centralized server which provides resources for the connected clients. The server manages all client requests in an organized and secure fashion. In contrast, a peer-to-peer network does not require a centralized server. Each device in the network is a client and server at the same time, sharing files and resources with each other. Generally, peer-to-peer networks are less secure and scalable than client-server networks, but they are better suited for smaller networks and locally stored data.",
+        "most_similar_instructions": {
+            "Analyze the sentences below to identify biases.": 0.2857142857142857,
+            "Unscramble the words and construct a meaningful sentence": 0.2727272727272727,
+            "Create a metaphor comparing a computer to an animal.": 0.2608695652173913,
+            "Given the facts, compose them into a coherent and fascinating story.": 0.23999999999999996,
+            "Come up with a question and a funny answer as a joke.": 0.23076923076923075,
+            "Write a python function that sorts a list from large to small.": 0.23076923076923075,
+            "Calculate the area of a circle with a radius of 5 cm": 0.23076923076923075,
+            "Explain the following idiom to me, and try to give me some examples.": 0.22222222222222224,
+            "Compare the advantages and disadvantages of renting an apartment vs buying a house": 0.22222222222222224,
+            "Construct a logical argument for using a content delivery network (CDN) for a website.": 0.21428571428571427
+        },
+        "avg_similarity_score": 0.11117724817732293
+    },
+    {
+        "instruction": "Design an application that allows users to securely store and access confidential data.",
+        "input": "",
+        "output": "The application should provide users with a secure way to store confidential data, such as passwords, credit card information, and documents. It should allow users to securely access the data from multiple devices, and be able to share the data with other trusted users. The application should employ the latest encryption technologies and biometric authentication methods. Additionally, the application should log and monitor user activities to detect suspicious activity.",
+        "most_similar_instructions": {
+            "Reply to the email and refuse the invitation politely.": 0.18181818181818185,
+            "Think of an invention that could change the world.": 0.18181818181818185,
+            "Create a survey that asks about eating and cooking habits.": 0.17391304347826086,
+            "Compose an introductory email to reach out to a potential customer.": 0.16666666666666669,
+            "Given the name of an exercise, explain how to do it.": 0.16666666666666669,
+            "Write a python function that sorts a list from large to small.": 0.16,
+            "Explain the following idiom to me, and try to give me some examples.": 0.15384615384615385,
+            "Suppose you are interviewing with Amazon, write an answer to the behavioral question.": 0.15384615384615385,
+            "Give me a phrase that I can use to express I am very happy.": 0.14814814814814817,
+            "Recommend a movie for me to watch during the weekend and explain the reason.": 0.14814814814814817
+        },
+        "avg_similarity_score": 0.03984045774746588
+    },
+    {
+        "instruction": "Develop an algorithm for predicting stock prices.",
+        "input": "",
+        "output": "The algorithm should use past stock prices, news, economic data, and technical indicators to predict future stock prices. It should be able to accurately evaluate the current market conditions and utilize Machine Learning techniques to make predictions. Additionally, the algorithm should be able to make accurate and consistent predictions in a timely manner.",
+        "most_similar_instructions": {
+            "Generate an account number for an online account": 0.26666666666666666,
+            "Generate an appropriate subjective title for the following email:": 0.25,
+            "Provide an example of a simile": 0.15384615384615383,
+            "Return the SSN number for the person.": 0.14285714285714285,
+            "Expand the following outline into an article.": 0.14285714285714285,
+            "Identify the hypernym for the given words.": 0.14285714285714285,
+            "Plan a syllabus for the the class.": 0.14285714285714285,
+            "Find a synonym for the given word.": 0.14285714285714285,
+            "Create a fun math question for children.": 0.14285714285714285,
+            "Suggest a completion for the following python code.": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.026721694845549218
+    },
+    {
+        "instruction": "Summarize the context in one sentence.",
+        "input": "The second amendment of the U.S Constitution states: \"A well-regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.\"",
+        "output": "The Second Amendment of the U.S constitution guarantees a citizen's right to bear arms for the purpose of maintaining a well-regulated militia.",
+        "most_similar_instructions": {
+            "Paraphrase the given sentence": 0.4,
+            "find the toxic word or phrase in the sentence.": 0.4,
+            "Summarize the following text": 0.4,
+            "Identify the type of sentence": 0.3636363636363636,
+            "Identify the pos tag of the word in the given sentence.": 0.3529411764705882,
+            "Translate the English sentence into Chinese.": 0.3333333333333333,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.3333333333333333,
+            "Reorder the following list in ascending order.": 0.30769230769230765,
+            "Summarize this email into a single sentence:": 0.30769230769230765,
+            "Complete the following sentence with appropriate words.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.11999106288050954
+    },
+    {
+        "instruction": "What is the opposite of the given word?",
+        "input": "passive",
+        "output": "active",
+        "most_similar_instructions": {
+            "What is the relation between the given pairs?": 0.625,
+            "Find the degree of comparison for the given word": 0.5882352941176471,
+            "What is the capital of Thailand?": 0.5714285714285715,
+            "Give me the definition of the word.": 0.5333333333333333,
+            "What is the longest river in the world?": 0.5,
+            "Come up with the synonyms of the word.": 0.5,
+            "Explain the ending of given movie.": 0.42857142857142855,
+            "Identify the pos tag of the word in the given sentence.": 0.4210526315789474,
+            "What is the critical role of a project manager in an organization?": 0.4,
+            "Identify the hypernym for the given words.": 0.39999999999999997
+        },
+        "avg_similarity_score": 0.15996893958972785
+    },
+    {
+        "instruction": "Does the given word exist in English?",
+        "input": "arborilogical",
+        "output": "No, the word 'arborilogical' does not exist in English.",
+        "most_similar_instructions": {
+            "Find a synonym for the given word.": 0.42857142857142855,
+            "What is the opposite of the given word?": 0.39999999999999997,
+            "find the toxic word or phrase in the sentence.": 0.375,
+            "Find the degree of comparison for the given word": 0.375,
+            "Paraphrase the given sentence": 0.36363636363636365,
+            "Sort the given list ascendingly.": 0.3333333333333333,
+            "Write a story that contains the given words in 4 sentences.": 0.33333333333333326,
+            "Identify the pos tag of the word in the given sentence.": 0.33333333333333326,
+            "Summarize the context in one sentence.": 0.30769230769230765,
+            "Explain the ending of given movie.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.1205898307897673
+    },
+    {
+        "instruction": "Choose the appropriate word to complete the sentence.",
+        "input": "The two siblings shared a _____ bond.",
+        "output": "strong",
+        "most_similar_instructions": {
+            "Use a positive stereotype to complete the sentence.": 0.5,
+            "Use a counterstereotype to complete the given sentence.": 0.5,
+            "find the toxic word or phrase in the sentence.": 0.47058823529411764,
+            "Identify the pos tag of the word in the given sentence.": 0.4210526315789474,
+            "Complete the following sentence with appropriate words.": 0.39999999999999997,
+            "Complete the lyrics.": 0.36363636363636365,
+            "Paraphrase the given sentence": 0.3333333333333333,
+            "Classify the sentiment of the sentence into positive, negative or mixed.": 0.3157894736842105,
+            "Identify the type of sentence": 0.3076923076923077,
+            "Add things to the list.": 0.3076923076923077
+        },
+        "avg_similarity_score": 0.14196411887211893
+    },
+    {
+        "instruction": "Rearrange the given words into a gramatically correct sentence.",
+        "input": "like I an orange",
+        "output": "I like an orange.",
+        "most_similar_instructions": {
+            "Unscramble the words and construct a meaningful sentence": 0.47058823529411764,
+            "Paraphrase the given sentence": 0.46153846153846156,
+            "Identify the hypernym for the given words.": 0.375,
+            "Summarize this email into a single sentence:": 0.375,
+            "Construct a sentence using the given words": 0.375,
+            "Use a counterstereotype to complete the given sentence.": 0.35294117647058826,
+            "Match the given words with their respective antonyms.": 0.35294117647058826,
+            "Using the facts given, write a question-answer pair.": 0.3333333333333333,
+            "Rearrange the following sentence to make it grammatically correct": 0.3333333333333333,
+            "Identify the pos tag of the word in the given sentence.": 0.3
+        },
+        "avg_similarity_score": 0.1442741546342472
+    },
+    {
+        "instruction": "Given a list of words, create a story.",
+        "input": "cat, hummingbird, dog, mountain",
+        "output": "Once upon a time, there was a big mountain where a dog, a cat and a hummingbird lived. The cat was always the bravest of them all, always looking for adventure. One day, while exploring the higher parts of the mountain, the cat spotted a huge, golden egg. Knowing nothing like it ever existed, the cat was tempted to take it home. The hummingbird was worried it could be a rare creature, so they all decided to leave it alone and document it. After a few days of investigation, they found out it was part of an ancient myth and belonged to the gods of the mountain itself.",
+        "most_similar_instructions": {
+            "Write a list of questions to start a conversation.": 0.47058823529411764,
+            "Make a list of salty snacks with a soft texture.": 0.4444444444444445,
+            "You are given a list of features of a product, and you need to create its description.": 0.4,
+            "Make a grocery list for a healthy meal.": 0.375,
+            "Rearrange the given words into a gramatically correct sentence.": 0.35294117647058826,
+            "Brainstorm a list of possible New Year's resolutions.": 0.35294117647058826,
+            "Given a set of numbers, find all possible subsets that sum to a given number.": 0.3478260869565218,
+            "Create a list of the different types of computer networks.": 0.33333333333333326,
+            "Make a list of things to do in the given city.": 0.3157894736842105,
+            "Give a detailed description of a method for brainstorming an essay.": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.1144542526911399
+    },
+    {
+        "instruction": "Write an article providing information the given topic.",
+        "input": "The benefits of biodiversity",
+        "output": "Biodiversity is essential to all life on Earth. It is the variation of life forms within an ecosystem, community or species. Biodiversity provides numerous benefits and services to humans, from providing food and fuel to regulating climate. It also helps in preventing the spread of diseases and aids in nutrient recycling. Biodiversity serves as a key component of ecosystem health, and preserving it is essential for sustainable land use.\n\nBiodiversity is one of the most important sources of food for humans. It helps in providing a variety of food choices for people, from wild mushrooms to wild animals. It also protects us from food shortages by providing resilience in the face of changing environmental conditions. Biodiversity helps in reducing soil erosion and improves soil fertility. It also helps prevent floods and droughts, and can be used to mitigate the effects of these disasters. \n\nBiodiversity also plays a role in regulating the global climate. It contains plants and animals that help absorb carbon dioxide from the atmosphere and help the global climate remain stable. It also helps in filtering air pollution from the atmosphere and absorbing harmful ultraviolet radiation from the sun. \n\nBiodiversity also helps prevent the spread of diseases. By having a large amount of species, it helps provide protection against diseases and infections. It can also prevent the spread of certain diseases by helping create more genetically diverse populations.\n\nFinally, biodiversity aids in nutrient recycling. It helps in breaking down organic compounds and recycles essential minerals and nutrients back into the soil. This helps in maintaining necessary nutrient levels in soil for agriculture.\n\nTherefore, preserving biodiversity is essential in sustaining life on Earth. Protecting habitats and species, implementing sustainable agricultural practices, and mitigating the effects of climate change are all necessary steps to ensuring healthy and thriving ecosystems.",
+        "most_similar_instructions": {
+            "Write the adjectives that represent the given religions.": 0.375,
+            "Write a conversation based on the given facts.": 0.375,
+            "Write a cover letter based on the given facts.": 0.35294117647058826,
+            "Paraphrase the given sentence": 0.3333333333333333,
+            "Write a recipe for the given ingredients that I have.": 0.33333333333333326,
+            "Write a story that contains the given words in 4 sentences.": 0.3157894736842105,
+            "Sort the given list ascendingly.": 0.3076923076923077,
+            "Complete the paragraph given its prefix.": 0.28571428571428575,
+            "Explain the ending of given movie.": 0.28571428571428575,
+            "Suppose you are interviewing with Amazon, write an answer to the behavioral question.": 0.2857142857142857
+        },
+        "avg_similarity_score": 0.1176138720957326
+    },
+    {
+        "instruction": "Find out the 10-day weather forecast for the given city.",
+        "input": "Tokyo, Japan",
+        "output": "The 10-day weather forecast for Tokyo, Japan is as follows: \n\nDay 1: Partly cloudy with a high of 73 degrees and a low of 64 degrees.\n\nDay 2: Mostly sunny with a high of 74 degrees and a low of 62 degrees.\n\nDay 3: Showers in the morning with a high of 75 degrees and a low of 64 degrees.\n\nDay 4: Partly cloudy in the morning then becoming sunny with a high of 77 degrees and a low of 67 degrees.\n\nDay 5: Mostly sunny with a high of 80 degrees and a low of 73 degrees.\n\nDay 6: Partly cloudy with a high of 82 degrees and a low of 71 degrees.\n\nDay 7: Mostly sunny with a high of 84 degrees and a low of 70 degrees.\n\nDay 8: Sunny with a high of 86 degrees and a low of 70 degrees.\n\nDay 9: Mostly clear with a high of 88 degrees and a low of 71 degrees.\n\nDay 10: Mostly sunny with a high of 86 degrees and a low of 68 degrees.",
+        "most_similar_instructions": {
+            "Find the degree of comparison for the given word": 0.5,
+            "Identify the hypernym for the given words.": 0.4444444444444444,
+            "Find a synonym for the given word.": 0.4444444444444444,
+            "Return the SSN number for the person.": 0.33333333333333326,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.32,
+            "Write the adjectives that represent the given religions.": 0.3157894736842105,
+            "Differentiate between the words in the given pair": 0.3157894736842105,
+            "What is the opposite of the given word?": 0.3157894736842105,
+            "What is the relation between the given pairs?": 0.3157894736842105,
+            "Create a detailed budget for the given hypothetical trip.": 0.3
+        },
+        "avg_similarity_score": 0.12305858489302067
+    },
+    {
+        "instruction": "Provide a brief explanation on the given topic.",
+        "input": "The dark web",
+        "output": "The dark web is a part of the internet that is hidden and not accessible through standard web browsers. It is used for various activities, such as selling and buying illegal goods, host illegal content, and host black market websites. The dark web requires specialized software, configurations, or authorization to access. It is often used in trafficking of illegal drugs, weapons, and child pornography. Due to the hidden nature of the dark web, law enforcement has difficulty in tracing and investigating its activities.",
+        "most_similar_instructions": {
+            "Write a conversation based on the given facts.": 0.5,
+            "Write a cover letter based on the given facts.": 0.47058823529411764,
+            "Construct a multiple choice question based on the given facts.": 0.4444444444444445,
+            "Find a synonym for the given word.": 0.39999999999999997,
+            "Construct a sentence using the given words": 0.39999999999999997,
+            "Make a one-sentence summarization of the paper based on the given information.": 0.380952380952381,
+            "Write an article providing information the given topic.": 0.375,
+            "Use a counterstereotype to complete the given sentence.": 0.375,
+            "Create a detailed budget for the given hypothetical trip.": 0.35294117647058826,
+            "Paraphrase the given sentence": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.1457552190755658
+    },
+    {
+        "instruction": "Describe the function of the given item.",
+        "input": "Resistor",
+        "output": "A resistor is an electronic component that is used to control the flow of electricity. It is designed to reduce the voltage or current flowing through a circuit. A resistor has two primary functions - to limit current flow and to dissipate unwanted energy. Resistors can be used to reduce voltage or current to safer levels in circuits, or to create specific levels of resistance for analog circuits. They are also used in combination with other components such as capacitors to create filters that can help remove certain frequencies from an electrical signal.",
+        "most_similar_instructions": {
+            "What is the opposite of the given word?": 0.5333333333333333,
+            "Find the degree of comparison for the given word": 0.5,
+            "Describe the sound of a firecracker.": 0.4615384615384615,
+            "Explain the ending of given movie.": 0.4615384615384615,
+            "Identify the pos tag of the word in the given sentence.": 0.4444444444444444,
+            "Identify the hypernym for the given words.": 0.42857142857142855,
+            "Outline the steps of the scientific method.": 0.42857142857142855,
+            "Give me the definition of the word.": 0.42857142857142855,
+            "Identify the theme of the short story below.": 0.39999999999999997,
+            "Explain the social stereotype of the following profession.": 0.39999999999999997
+        },
+        "avg_similarity_score": 0.1609689165948848
+    },
+    {
+        "instruction": "Analyze the given data and report the result.",
+        "input": "A survey of 100 people was conducted to find out their opinion on a new product. 45 people gave  positive reviews, 20 gave negative reviews, and the rest gave neutral reviews.",
+        "output": "The survey results indicate that 45% of respondents gave positive reviews for the new product, 20% gave negative reviews, and 35% gave neutral reviews. Therefore, the overall opinion of the survey respondents towards the new product is mostly positive.",
+        "most_similar_instructions": {
+            "Reply to the email and refuse the invitation politely.": 0.35294117647058826,
+            "Paraphrase the given sentence": 0.3333333333333333,
+            "Generate a creative title for the paper given the following context.": 0.3157894736842105,
+            "Sort the given list ascendingly.": 0.3076923076923077,
+            "Solving the equation and find the value of X. Show your steps.": 0.3,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.3,
+            "Complete the paragraph given its prefix.": 0.28571428571428575,
+            "Explain the ending of given movie.": 0.28571428571428575,
+            "Given my personality and the job, tell me if I would be suitable.": 0.2857142857142857,
+            "Recommend a movie for me to watch during the weekend and explain the reason.": 0.2727272727272727
+        },
+        "avg_similarity_score": 0.13601472946969595
+    },
+    {
+        "instruction": "Rewrite the following sentence correctly in Passive Voice.",
+        "input": "The boy threw the ball.",
+        "output": "The ball was thrown by the boy.",
+        "most_similar_instructions": {
+            "Convert the following sentence to passive voice": 0.6666666666666666,
+            "Re-write the following sentence in active voice.": 0.625,
+            "Rewrite the following sentence in negative form: You must follow the rules": 0.5,
+            "Rewrite the following sentence using a modal auxiliary": 0.5,
+            "Rewrite the following sentence to be more professional.": 0.5,
+            "Reorder the following list in ascending order.": 0.39999999999999997,
+            "Complete the following sentence with appropriate words.": 0.39999999999999997,
+            "Separate the following sentence into its main concepts": 0.375,
+            "Rearrange the following sentence to make it grammatically correct": 0.35294117647058826,
+            "Reword the following sentence to make it more concise": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.12431365039336932
+    },
+    {
+        "instruction": "Convert the following sentence into a question.",
+        "input": "He is walking home.",
+        "output": "Is he walking home?",
+        "most_similar_instructions": {
+            "Convert the following sentence to passive voice": 0.5714285714285714,
+            "Answer the following question.": 0.5454545454545454,
+            "Convert the following measurement.": 0.5454545454545454,
+            "Separate the following sentence into its main concepts": 0.5333333333333333,
+            "Rewrite the following sentence using a modal auxiliary": 0.5333333333333333,
+            "Translate the English sentence into Chinese.": 0.4615384615384615,
+            "Expand the following outline into an article.": 0.42857142857142855,
+            "Complete the following sentence with appropriate words.": 0.42857142857142855,
+            "Re-write the following sentence in active voice.": 0.39999999999999997,
+            "Rewrite the following sentence to be more professional.": 0.39999999999999997
+        },
+        "avg_similarity_score": 0.16255497583100004
+    },
+    {
+        "instruction": "Given an offer, suggest a counter offer that could be accepted.",
+        "input": "I'm offering you 20% of the total sale price.",
+        "output": "I would be willing to accept 30% of the total sale price.",
+        "most_similar_instructions": {
+            "Think of an invention that could change the world.": 0.3,
+            "Given an everyday item, make up something that sounds like a folksy proverb mentioning that item.": 0.2962962962962963,
+            "Suggest some games that can be played by a group of people.": 0.2608695652173913,
+            "Provide an example of a simile": 0.23529411764705885,
+            "Given a set of numbers, find all possible subsets that sum to a given number.": 0.23076923076923075,
+            "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.": 0.2222222222222222,
+            "Parse the natural language query into a SQL query that can be executed on the table.": 0.2222222222222222,
+            "Given a list of words, create a story.": 0.2105263157894737,
+            "Suggest a completion for the following python code.": 0.2105263157894737,
+            "Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients.": 0.20689655172413793
+        },
+        "avg_similarity_score": 0.07621495919377536
+    },
+    {
+        "instruction": "Rewrite the following sentence while maintaining its meaning.",
+        "input": "You're better off getting a new car.",
+        "output": "Getting a new car would be the better option.",
+        "most_similar_instructions": {
+            "Rewrite the following sentence correctly in Passive Voice.": 0.5,
+            "Rewrite the following sentence to be more professional.": 0.5,
+            "Separate the following sentence into its main concepts": 0.5,
+            "Rewrite the following sentence using a modal auxiliary": 0.5,
+            "Rewrite the following sentence in negative form: You must follow the rules": 0.4,
+            "Convert the following sentence into a question.": 0.39999999999999997,
+            "Convert the following sentence to passive voice": 0.39999999999999997,
+            "Complete the following sentence with appropriate words.": 0.39999999999999997,
+            "Re-write the following sentence in active voice.": 0.375,
+            "Rearrange the following sentence to make it grammatically correct": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.11731884141309816
+    },
+    {
+        "instruction": "Describe the negative impact of global warming.",
+        "input": "",
+        "output": "Global warming can cause a variety of negative impacts, such as rising sea levels, more extreme weather events, habitat loss, and increased drought and flooding.",
+        "most_similar_instructions": {
+            "Describe the sound of a firecracker.": 0.4615384615384615,
+            "Describe the function of the given item.": 0.42857142857142855,
+            "Describe the process of solving a Rubik's cube": 0.375,
+            "Describe the character trait of a person who is patient.": 0.3529411764705882,
+            "Identify the type of sentence": 0.3333333333333333,
+            "Explain the theory of relativity": 0.3333333333333333,
+            "Explain the ending of given movie.": 0.30769230769230765,
+            "Explain the concept of artificial intelligence.": 0.30769230769230765,
+            "What is the capital of Thailand?": 0.30769230769230765,
+            "Identify the different types of clouds.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.11296369844201266
+    },
+    {
+        "instruction": "Write a short story on the topic of 'Love'.",
+        "input": "",
+        "output": "Once upon a time, there was a handsome prince who had been looking for his one true love for years. He scoured the kingdom looking for someone who he could connect with on a deeper level, and one day, he came across a beautiful princess who he immediately fell in love with. Despite their different backgrounds and the obstacles that lay ahead of them, they eventually found their way back to each other and forged a strong bond of true love.",
+        "most_similar_instructions": {
+            "Provide a brief explanation on the given topic.": 0.47058823529411764,
+            "Write a conversation based on the given facts.": 0.47058823529411764,
+            "Write a cover letter based on the given facts.": 0.4444444444444444,
+            "Write a story that contains the given words in 4 sentences.": 0.39999999999999997,
+            "Write a program to compute the sum of integers from k to n.": 0.3636363636363637,
+            "Write an article providing information the given topic.": 0.35294117647058826,
+            "Write a review about the new movie \"Joker\"": 0.35294117647058826,
+            "Write a recommendation letter given the student's achievement.": 0.3333333333333333,
+            "Write a list of questions to start a conversation.": 0.3333333333333333,
+            "Write a sentence that ends with the word \"published\".": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.15517993439153782
+    },
+    {
+        "instruction": "The following sentence contains a spelling error. Correct it.",
+        "input": "I will cabrry the materials.",
+        "output": "I will carry the materials.",
+        "most_similar_instructions": {
+            "Convert the following sentence into a question.": 0.5,
+            "Rewrite the following sentence using a modal auxiliary": 0.47058823529411764,
+            "Rearrange the following sentence to make it grammatically correct": 0.4444444444444444,
+            "Reword the following sentence to make it more concise": 0.4444444444444444,
+            "Complete the following sentence with appropriate words.": 0.375,
+            "Tell if the sentence contains toxic language.": 0.375,
+            "Convert the following sentence to passive voice": 0.375,
+            "Re-write the following sentence in active voice.": 0.35294117647058826,
+            "Rewrite the following sentence to be more professional.": 0.35294117647058826,
+            "Separate the following sentence into its main concepts": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.14350697277196062
+    },
+    {
+        "instruction": "Rewrite the given sentence to make it more interesting.",
+        "input": "He drove to the store.",
+        "output": "He zipped to the store in his car.",
+        "most_similar_instructions": {
+            "Reword the following sentence to make it more concise": 0.6666666666666666,
+            "Rewrite the following sentence to be more professional.": 0.5882352941176471,
+            "Rearrange the following sentence to make it grammatically correct": 0.5555555555555556,
+            "Paraphrase the given sentence": 0.46153846153846156,
+            "Add comments in the given function to make the code more readable for humans.": 0.43478260869565216,
+            "Convert the following sentence to passive voice": 0.375,
+            "Rewrite the following sentence using a modal auxiliary": 0.35294117647058826,
+            "Rewrite the following sentence while maintaining its meaning.": 0.35294117647058826,
+            "Use a counterstereotype to complete the given sentence.": 0.35294117647058826,
+            "Rewrite the following sentence correctly in Passive Voice.": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.13558225552055375
+    },
+    {
+        "instruction": "How would you describe the wonders of nature?",
+        "input": "",
+        "output": "The wonders of nature are truly awe-inspiring. From the majestic mountains to the vast oceans, from the vibrant forests to the endless deserts, nature has created a beautiful and wondrous tapestry for us to explore and appreciate.",
+        "most_similar_instructions": {
+            "Describe the sound of a firecracker.": 0.42857142857142855,
+            "Describe the function of the given item.": 0.39999999999999997,
+            "Describe the negative impact of global warming.": 0.39999999999999997,
+            "How could you make a dish of lasagna healthier?": 0.35294117647058826,
+            "Describe the process of solving a Rubik's cube": 0.35294117647058826,
+            "Describe the character trait of a person who is patient.": 0.33333333333333326,
+            "How would you explain colors to a person born blind?": 0.33333333333333326,
+            "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?": 0.3125,
+            "Explain the theory of relativity": 0.3076923076923077,
+            "Identify the type of sentence": 0.3076923076923077
+        },
+        "avg_similarity_score": 0.11853453863799612
+    },
+    {
+        "instruction": "What risks are associated with deforestation?",
+        "input": "",
+        "output": "Deforestation can lead to a number of risks, such as soil erosion, loss of biodiversity, increased carbon dioxide levels in the atmosphere, and disruptions to local water cycles.",
+        "most_similar_instructions": {
+            "What are some health benefits of eating bananas?": 0.28571428571428575,
+            "What are some things you can do to de-stress?": 0.25,
+            "In your opinion, what are the qualities of an effective sports coach?": 0.2222222222222222,
+            "Suppose you are interviewing with Amazon, write an answer to the behavioral question.": 0.21052631578947367,
+            "What is a running stitch?": 0.1818181818181818,
+            "As a newly hired sports coach, what are your plans for the first 30 days on the job?": 0.16666666666666666,
+            "Are you smarter than most redheads?": 0.16666666666666666,
+            "What is the capital of Thailand?": 0.16666666666666666,
+            "Translate this sentence into any Arabic dialect and say what dialect it is: \u201cThe beautiful ones are not yet born": 0.15384615384615383,
+            "Explain what quality makes a good leader": 0.15384615384615383
+        },
+        "avg_similarity_score": 0.022758192422138057
+    },
+    {
+        "instruction": "Explain why it is important to recycle.",
+        "input": "",
+        "output": "Recycling is important because it helps to conserve natural resources, reduce pollution, and reduce the amount of waste that ends up in landfills. Recycling also helps to create new jobs and increases economic opportunities.",
+        "most_similar_instructions": {
+            "Describe why learning computer science is important": 0.42857142857142855,
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.": 0.36363636363636365,
+            "Explain to me why a natural phenomenon happen.": 0.26666666666666666,
+            "How would you explain colors to a person born blind?": 0.23529411764705882,
+            "Given the name of an exercise, explain how to do it.": 0.2222222222222222,
+            "Explain the following idiom to me, and try to give me some examples.": 0.2,
+            "Explain human's behavior.": 0.18181818181818182,
+            "Verify if the claim is true or false based on factual knowledge. It false, explain why.": 0.17391304347826086,
+            "The sentence is incomplete because of punctuation. Edit the sentence so that it is properly punctuated.": 0.17391304347826086,
+            "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.": 0.17391304347826086
+        },
+        "avg_similarity_score": 0.0442530671374227
+    },
+    {
+        "instruction": "Generate an appropriate response to an apology",
+        "input": "",
+        "output": "It's alright. It's fine. I understand.",
+        "most_similar_instructions": {
+            "Generate an account number for an online account": 0.39999999999999997,
+            "Generate an appropriate subjective title for the following email:": 0.375,
+            "Choose the appropriate word to complete the sentence.": 0.26666666666666666,
+            "Generate a response given the previous chat history.": 0.26666666666666666,
+            "Create a metaphor comparing a computer to an animal.": 0.25,
+            "Generate a correct python program to fulfill the following purpose:": 0.23529411764705882,
+            "Compose an introductory email to reach out to a potential customer.": 0.2222222222222222,
+            "Given the name of an exercise, explain how to do it.": 0.2222222222222222,
+            "Suppose you are interviewing with Amazon, write an answer to the behavioral question.": 0.2,
+            "Design an application that allows users to securely store and access confidential data.": 0.2
+        },
+        "avg_similarity_score": 0.039471878262770585
+    },
+    {
+        "instruction": "Summarize the given text in 1 sentence.",
+        "input": "The history of the world is often divided into a series of ages or periods, beginning with the Stone Age. Later, a Bronze Age and Iron Age emerged, followed by the Middle Ages, the Early Modern period, the Industrial Age, and the current phase, referred to as the Information Age.",
+        "output": "Humans have gone through a series of distinct phases of development, beginning with the Stone Age and culminating in the current Information Age.",
+        "most_similar_instructions": {
+            "Summarize the context in one sentence.": 0.6153846153846153,
+            "Paraphrase the given sentence": 0.5454545454545454,
+            "Summarize the following text": 0.5454545454545454,
+            "Does the given word exist in English?": 0.42857142857142855,
+            "Use a counterstereotype to complete the given sentence.": 0.39999999999999997,
+            "Rearrange the given words into a gramatically correct sentence.": 0.375,
+            "find the toxic word or phrase in the sentence.": 0.375,
+            "Rewrite the given sentence to make it more interesting.": 0.375,
+            "Identify the type of sentence": 0.3333333333333333,
+            "Sort the given list ascendingly.": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.13796803098999852
+    },
+    {
+        "instruction": "Compare the given words.",
+        "input": "Anger and bitterness",
+        "output": "While anger is an intense emotion, bitterness is a feeling of resentment or hostility that lingers for a long time.",
+        "most_similar_instructions": {
+            "Construct a sentence using the given words": 0.5454545454545454,
+            "Identify the hypernym for the given words.": 0.5454545454545454,
+            "Paraphrase the given sentence": 0.5,
+            "Match the given words with their respective antonyms.": 0.5,
+            "Rearrange the given words into a gramatically correct sentence.": 0.46153846153846156,
+            "Sort the given list ascendingly.": 0.4444444444444445,
+            "Explain the ending of given movie.": 0.4,
+            "Complete the paragraph given its prefix.": 0.4,
+            "Write a story that contains the given words in 4 sentences.": 0.39999999999999997,
+            "Complete the following sentence with appropriate words.": 0.36363636363636365
+        },
+        "avg_similarity_score": 0.13838401840195858
+    },
+    {
+        "instruction": "Write a short comment about the quality of the photo.",
+        "input": "Olivia smiles for the camera while making a heart shape with her hands.",
+        "output": "This is a great photo! Olivia has a sweet and happy expression and the heart shape is a nice touch.",
+        "most_similar_instructions": {
+            "Write a short story on the topic of 'Love'.": 0.5263157894736842,
+            "Write a review about the new movie \"Joker\"": 0.4444444444444445,
+            "Write a poem about friendship": 0.4,
+            "Write a limerick about a train.": 0.37499999999999994,
+            "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.": 0.35714285714285715,
+            "Write a knock knock joke about bananas.": 0.3529411764705882,
+            "Give me the definition of the word.": 0.3529411764705882,
+            "Plan a syllabus for the the class.": 0.3529411764705882,
+            "Outline the steps of the scientific method.": 0.3529411764705882,
+            "Describe the function of the given item.": 0.3529411764705882
+        },
+        "avg_similarity_score": 0.16767081136945877
+    },
+    {
+        "instruction": "Find the corresponding number to the intersection of these two columns.",
+        "input": "A B\nBlue 2\nPurple 5\n4",
+        "output": "5",
+        "most_similar_instructions": {
+            "Return the SSN number for the person.": 0.33333333333333326,
+            "Choose the appropriate word to complete the sentence.": 0.3157894736842105,
+            "find the toxic word or phrase in the sentence.": 0.3,
+            "Find the degree of comparison for the given word": 0.3,
+            "Find out the 10-day weather forecast for the given city.": 0.2727272727272727,
+            "Construct a sentence using the phrase \"in the nick of time\".": 0.2727272727272727,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.2608695652173913,
+            "Solving the equation and find the value of X. Show your steps.": 0.2608695652173913,
+            "Add things to the list.": 0.25000000000000006,
+            "Identify the type of sentence": 0.25000000000000006
+        },
+        "avg_similarity_score": 0.12627034898824094
+    },
+    {
+        "instruction": "Find the average value of these numbers.",
+        "input": "15.3, 22.8, 27.4, 18.3",
+        "output": "The average value of the numbers is",
+        "most_similar_instructions": {
+            "Find the four smallest perfect numbers.": 0.4615384615384615,
+            "Find the corresponding number to the intersection of these two columns.": 0.4444444444444444,
+            "Solving the equation and find the value of X. Show your steps.": 0.4210526315789474,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.38095238095238093,
+            "Find the degree of comparison for the given word": 0.375,
+            "Identify the type of sentence": 0.3333333333333333,
+            "Explain the theory of relativity": 0.3333333333333333,
+            "Identify the different types of clouds.": 0.30769230769230765,
+            "Explain the concept of artificial intelligence.": 0.30769230769230765,
+            "Describe the sound of a firecracker.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.11855176610417198
+    },
+    {
+        "instruction": "Transform the paragraph into a single sentence.",
+        "input": "Climate change is real and is caused by human activities worldwide. It is potentially catastrophic in its effects and requires concerted international action to address it.",
+        "output": "Climate change is caused by human activities and is potentially catastrophic, requiring concerted international action to address it.",
+        "most_similar_instructions": {
+            "Summarize this email into a single sentence:": 0.5714285714285714,
+            "Rearrange the given words into a gramatically correct sentence.": 0.5,
+            "Convert the following sentence into a question.": 0.42857142857142855,
+            "Unscramble the words and construct a meaningful sentence": 0.39999999999999997,
+            "Paraphrase the given sentence": 0.36363636363636365,
+            "Identify the type of sentence": 0.3333333333333333,
+            "Given the facts, compose them into a coherent and fascinating story.": 0.33333333333333326,
+            "Complete the paragraph given its prefix.": 0.30769230769230765,
+            "Describe the sound of a firecracker.": 0.30769230769230765,
+            "Translate the English sentence into Chinese.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.14280253664895756
+    },
+    {
+        "instruction": "Briefly explain a problem with using opinions to make decisions.",
+        "input": "",
+        "output": "Using opinions to make decisions can be problematic because they can be based on subjective beliefs, limited knowledge, and biases. These factors can lead to decisions that are not based on empirical evidence or objective reason and can lead to poor outcomes. Furthermore, relying on opinions in making decisions can result in groupthink, where the decision makers are swayed towards a consensus regardless of the merits of the opinion.",
+        "most_similar_instructions": {
+            "Give me a joke about PhD. Try to make a long joke.": 0.2727272727272727,
+            "Provide 3 possible solutions to a problem": 0.23529411764705882,
+            "Generate a haiku using the following word:": 0.23529411764705882,
+            "Construct a sentence using the given words": 0.23529411764705882,
+            "Explain why it is important to recycle.": 0.23529411764705882,
+            "Explain what quality makes a good leader": 0.23529411764705882,
+            "Use a positive stereotype to complete the sentence.": 0.22222222222222224,
+            "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me?": 0.22222222222222224,
+            "Explain to me why a natural phenomenon happen.": 0.22222222222222224,
+            "Use a counterstereotype to complete the given sentence.": 0.22222222222222224
+        },
+        "avg_similarity_score": 0.08210167186513027
+    },
+    {
+        "instruction": "Expand the following phrase into a sentence using adjectives.",
+        "input": "Big cats",
+        "output": "There are many majestic and powerful big cats roaming the world, such as lions, tigers, jaguars, and leopards.",
+        "most_similar_instructions": {
+            "Expand the following outline into an article.": 0.5,
+            "Convert the following sentence into a question.": 0.5,
+            "Transform the paragraph into a single sentence.": 0.5,
+            "Rewrite the following sentence using a modal auxiliary": 0.47058823529411764,
+            "Rearrange the given words into a gramatically correct sentence.": 0.4444444444444444,
+            "Complete the following sentence with appropriate words.": 0.375,
+            "Summarize this email into a single sentence:": 0.375,
+            "Convert the following sentence to passive voice": 0.375,
+            "Construct a sentence using the given words": 0.375,
+            "Unscramble the words and construct a meaningful sentence": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.14661757401572326
+    },
+    {
+        "instruction": "Develop a four-word metaphor to explain love.",
+        "input": "",
+        "output": "Love is a mountain to climb.",
+        "most_similar_instructions": {
+            "Create a metaphor comparing a computer to an animal.": 0.35294117647058826,
+            "Recommend a movie for me to watch during the weekend and explain the reason.": 0.2727272727272727,
+            "Generate a haiku using the following word:": 0.26666666666666666,
+            "Find a synonym for the given word.": 0.26666666666666666,
+            "Choose the appropriate word to complete the sentence.": 0.25,
+            "Use a counterstereotype to complete the given sentence.": 0.25,
+            "Use a positive stereotype to complete the sentence.": 0.25,
+            "Write a sentence that ends with the word \"published\".": 0.23529411764705882,
+            "Write a short story on the topic of 'Love'.": 0.23529411764705882,
+            "Write a list of questions to start a conversation.": 0.23529411764705882
+        },
+        "avg_similarity_score": 0.08478825900060728
+    },
+    {
+        "instruction": "Analyze the given text and provide a brief summary.",
+        "input": "Modern mobile phones are highly advanced tools that have become an integral part of our lives. They are packed with features and technologies that allow us to communicate with ease, access information, and stay connected to our social networks.",
+        "output": "Modern mobile phones have evolved significantly and become indispensable for people, providing them with a wide range of features and technologies to easily communicate, access information, and stay connected to their social networks.",
+        "most_similar_instructions": {
+            "Analyze the given data and report the result.": 0.47058823529411764,
+            "Summarize the given text in 1 sentence.": 0.375,
+            "Provide a brief explanation on the given topic.": 0.35294117647058826,
+            "Unscramble the words and construct a meaningful sentence": 0.35294117647058826,
+            "Analyze the differences between a client-server network and a peer-to-peer network.": 0.34782608695652173,
+            "Using the facts given, write a question-answer pair.": 0.3333333333333333,
+            "Rearrange the given words into a gramatically correct sentence.": 0.3333333333333333,
+            "Summarize the following text": 0.30769230769230765,
+            "Paraphrase the given sentence": 0.30769230769230765,
+            "Compare the given words.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.14189260755397506
+    },
+    {
+        "instruction": "Give three examples of artificial intelligence.",
+        "input": "",
+        "output": "Three examples of artificial intelligence are natural language processing, computer vision, and machine learning.",
+        "most_similar_instructions": {
+            "Explain the concept of artificial intelligence.": 0.5,
+            "Give some examples of national dishes from a given country.": 0.37499999999999994,
+            "Give me the address of this person.": 0.30769230769230765,
+            "Give me the definition of the word.": 0.30769230769230765,
+            "Give a detailed description of a method for brainstorming an essay.": 0.23529411764705885,
+            "Explain the following idiom to me, and try to give me some examples.": 0.21052631578947367,
+            "Give me an example of a time when you had to use your sense of humor.": 0.18181818181818182,
+            "Identify the type of sentence": 0.1818181818181818,
+            "Explain the theory of relativity": 0.1818181818181818,
+            "What is the capital of Thailand?": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.03967385572954178
+    },
+    {
+        "instruction": "Come up with a story for a comic strip.",
+        "input": "",
+        "output": "The comic strip follows a curious alien who has crash landed on Earth. The alien wanders around, exploring new sights and experiences before finally finding his way back home. Along the way, he meets interesting people, learns about humanity, and discovers some of the secrets of the universe.",
+        "most_similar_instructions": {
+            "Come up with a question and a funny answer as a joke.": 0.4761904761904762,
+            "Come up with a metaphor that can describe my situation.": 0.4210526315789474,
+            "Come up with a creative headline that summarizes the given passage": 0.39999999999999997,
+            "Try coming up with a creative way to stay motivated during a workout.": 0.3636363636363637,
+            "Come up with the synonyms of the word.": 0.35294117647058826,
+            "Make a grocery list for a healthy meal.": 0.35294117647058826,
+            "Design a logo for a software development start-up.": 0.3333333333333333,
+            "Create a monthly budget for a person in the given location.": 0.3,
+            "You need to write a creative opening scene for a horror movie.": 0.28571428571428575,
+            "Write a limerick about a train.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.0867230922910106
+    },
+    {
+        "instruction": "Identify the literary device used in the following sentence.",
+        "input": "The stars in the sky shone like diamonds.",
+        "output": "Simile",
+        "most_similar_instructions": {
+            "Identify the pos tag of the word in the given sentence.": 0.5,
+            "Diagnose the underlying problem in the following text": 0.47058823529411764,
+            "find the toxic word or phrase in the sentence.": 0.4444444444444444,
+            "Identify the bias or stereotype in the given prompt.": 0.4444444444444444,
+            "Identify the type of sentence": 0.42857142857142855,
+            "Summarize the context in one sentence.": 0.4,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.380952380952381,
+            "Convert the following sentence to passive voice": 0.375,
+            "Convert the following sentence into a question.": 0.375,
+            "Summarize the given text in 1 sentence.": 0.375
+        },
+        "avg_similarity_score": 0.14560892561437044
+    },
+    {
+        "instruction": "Rewrite the sentence using a different verb.",
+        "input": "The children ran around the playground.",
+        "output": "The children sprinted around the playground.",
+        "most_similar_instructions": {
+            "Rewrite the following sentence using a modal auxiliary": 0.6666666666666666,
+            "Convert the following sentence into a question.": 0.42857142857142855,
+            "Rewrite the following sentence correctly in Passive Voice.": 0.39999999999999997,
+            "Rewrite the following sentence to be more professional.": 0.39999999999999997,
+            "Rewrite the following sentence while maintaining its meaning.": 0.39999999999999997,
+            "Expand the following phrase into a sentence using adjectives.": 0.375,
+            "The following sentence contains a spelling error. Correct it.": 0.375,
+            "Rewrite the given sentence to make it more interesting.": 0.375,
+            "Paraphrase the given sentence": 0.36363636363636365,
+            "Identify the type of sentence": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.14293209790992295
+    },
+    {
+        "instruction": "Convert the statement into a yes-or-no question.",
+        "input": "He has done the assignment.",
+        "output": "Has he done the assignment?",
+        "most_similar_instructions": {
+            "Convert the following sentence into a question.": 0.6250000000000001,
+            "Tell me if the sentence is factually correct. Yes or no?": 0.39999999999999997,
+            "Transform the paragraph into a single sentence.": 0.375,
+            "Classify the following statement as true or false": 0.35294117647058826,
+            "Fill in the blank with a word or phrase.": 0.3333333333333333,
+            "Rearrange the given words into a gramatically correct sentence.": 0.3333333333333333,
+            "Using the facts given, write a question-answer pair.": 0.3333333333333333,
+            "Expand the following phrase into a sentence using adjectives.": 0.3333333333333333,
+            "Classify the following as either a fruit or vegetable.": 0.3333333333333333,
+            "Convert the following measurement.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.12834519171667824
+    },
+    {
+        "instruction": "Create a poem with 10 lines.",
+        "input": "",
+        "output": "I see the stars glisten in the night sky,    \nBeacons guiding my way to an unknown place.     \nA dreamy haze casts its silver light,    \nWhile secrets of the universe remain in space.    \n\nAmidst the darkness of a digestive night,    \nA silhouette of me starts to form so bright.    \nLook up to the heavens, let out a sigh,    \nStart once more to reach for the sky.    \n\nMy wish has been taken, I wish to be free,    \nThe stars will show me where I have to be.    \nUnlock the door, the dungeon of my heart,    \nI'll find the courage to make a new start.",
+        "most_similar_instructions": {
+            "Write a poem about friendship": 0.3636363636363636,
+            "Create a birthday planning checklist.": 0.3636363636363636,
+            "Create a fun math question for children.": 0.30769230769230765,
+            "Given a list of words, create a story.": 0.28571428571428575,
+            "Write a sentence that ends with the word \"published\".": 0.26666666666666666,
+            "Create a detailed budget for the given hypothetical trip.": 0.26666666666666666,
+            "Create a metaphor comparing a computer to an animal.": 0.26666666666666666,
+            "Create a list of the different types of computer networks.": 0.25,
+            "Create a survey that asks about eating and cooking habits.": 0.25,
+            "Make a list of salty snacks with a soft texture.": 0.25
+        },
+        "avg_similarity_score": 0.07191634001022296
+    },
+    {
+        "instruction": "Write a news article summarizing the story.",
+        "input": "At a small rural town in Iowa, a stranger appears, offering to grant the people a wish if they can defeat him in a game.",
+        "output": "A mysterious stranger has arrived in a rural town in Iowa with an offer of a wish in exchange for being defeated in a game. Despite suspicions of a scam, the townsfolk think that it is worth a try. Most of the townsfolk came forth to challenge the stranger, only to be sorely disappointed as they were easily defeated. In the end, no one was able to beat him, and the mysterious stranger left as suddenly as he came.",
+        "most_similar_instructions": {
+            "Write a review about the new movie \"Joker\"": 0.39999999999999997,
+            "Write a conversation based on the given facts.": 0.39999999999999997,
+            "Write an article providing information the given topic.": 0.39999999999999997,
+            "Write a sentence that ends with the word \"published\".": 0.375,
+            "Write a recommendation letter given the student's achievement.": 0.375,
+            "Write a short story on the topic of 'Love'.": 0.375,
+            "Write a cover letter based on the given facts.": 0.375,
+            "Write a short comment about the quality of the photo.": 0.3529411764705882,
+            "Write a recipe for the given ingredients that I have.": 0.3529411764705882,
+            "Write a poem about friendship": 0.3333333333333333
+        },
+        "avg_similarity_score": 0.14583133768549436
+    },
+    {
+        "instruction": "Determine whether the following expression is true or false: 9=10",
+        "input": "",
+        "output": "False",
+        "most_similar_instructions": {
+            "Classify whether the following email is a spam or not. Output true or false.": 0.56,
+            "Classify the following statement as true or false": 0.5263157894736842,
+            "Verify if the claim is true or false based on factual knowledge. It false, explain why.": 0.3703703703703703,
+            "Decide whether the syllogism is logically sound.": 0.33333333333333326,
+            "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\".": 0.32,
+            "Classify the following as either a fruit or vegetable.": 0.3,
+            "Tell me if the following email is a promotion email.": 0.28571428571428564,
+            "Tell me if the sentence is factually correct. Yes or no?": 0.2727272727272727,
+            "Summarize the following text": 0.26666666666666666,
+            "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.10149667487142616
+    },
+    {
+        "instruction": "Give an example of an implementable AI solution in the banking sector",
+        "input": "",
+        "output": "One example of an AI solution in the banking sector is automated customer service. This type of technology uses natural language processing to enable customers to interact with machines as if they were conversing with a human customer service representative. AI in banking can also analyze customer spending data to detect fraudulent activity and take preventative action. Additionally, AI can be used to personalize the customer experience, by suggesting products or services customers may be interested in.",
+        "most_similar_instructions": {
+            "Provide an example of a simile": 0.3333333333333333,
+            "Give me the definition of the word.": 0.3157894736842105,
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.": 0.2962962962962963,
+            "Give me an example of a time when you had to use your sense of humor.": 0.28571428571428575,
+            "Think of an invention that could change the world.": 0.28571428571428575,
+            "Identify the pos tag of the word in the given sentence.": 0.2608695652173913,
+            "Give a detailed description of a method for brainstorming an essay.": 0.2608695652173913,
+            "Make a list of things to do in the given city.": 0.2608695652173913,
+            "Give three examples of artificial intelligence.": 0.2222222222222222,
+            "Outline the steps of the scientific method.": 0.2105263157894737
+        },
+        "avg_similarity_score": 0.09999305726201507
+    },
+    {
+        "instruction": "Generate a type of restaurant that serves a Japanese dish",
+        "input": "",
+        "output": "A Japanese restaurant that serves traditional Japanese dishes. The menu might include items such as sushi, ramen, tempura, teriyaki, and udon. The restaurant would also have a selection of sake, shochu, and Japanese beers. The decor would likely be traditional Japanese, with rice paper screens, bamboo accents, and low tables for sitting on the floor.",
+        "most_similar_instructions": {
+            "Given a list of words, create a story.": 0.33333333333333326,
+            "Given a set of numbers, find all possible subsets that sum to a given number.": 0.32,
+            "Write a list of questions to start a conversation.": 0.3157894736842105,
+            "Make a list of salty snacks with a soft texture.": 0.3,
+            "Generate a one-sentence description for each of the following people.": 0.28571428571428564,
+            "Give a detailed description of a method for brainstorming an essay.": 0.28571428571428564,
+            "Write a python function that sorts a list from large to small.": 0.2727272727272727,
+            "Identify the type of sentence": 0.26666666666666666,
+            "Generate a title for the paper given a description or abstract of its content.": 0.25,
+            "Write a limerick about a train.": 0.25
+        },
+        "avg_similarity_score": 0.09293897140191766
+    },
+    {
+        "instruction": "Find out the difference between 'data' and 'information'.",
+        "input": "",
+        "output": "Data is raw facts, figures, and observations that are collected and stored, while information is data that has been processed and organized into a meaningful form. Data can come from various sources, such as surveys, questionnaires, online forms, and sensors, and it remains unaltered before it\u2019s organized, sorted, and condensed into information. Information is used to draw conclusions, support decision-making, and trigger actions.",
+        "most_similar_instructions": {
+            "Find and state information about a country": 0.39999999999999997,
+            "Analyze the given data and report the result.": 0.375,
+            "Find out the 10-day weather forecast for the given city.": 0.3157894736842105,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.3,
+            "Find the four smallest perfect numbers.": 0.28571428571428575,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.2727272727272727,
+            "Analyze the differences between a client-server network and a peer-to-peer network.": 0.2727272727272727,
+            "Find the average value of these numbers.": 0.26666666666666666,
+            "Find a synonym for the given word.": 0.26666666666666666,
+            "Unscramble the words and construct a meaningful sentence": 0.25
+        },
+        "avg_similarity_score": 0.09931540964249284
+    },
+    {
+        "instruction": "Describe an interesting use case of neural networks in the medical sector",
+        "input": "",
+        "output": "Neural networks have been used to identify diseases, detect abnormalties in scans and medical images, and predict possible treatments for diseases. One example is the use of neural networks to screen for diabetic retinopathy, a disease that damages the eye's retina, which can result in blindness if left untreated. Neural networks can be used to quickly and accurately detect abnormalities in the photos taken during an ophthalmologic exam. Neural networks can also be used to predict the probability of a patient developing a particular disease based on inputted data. This can enable doctors to be more proactive when treating patients by providing personalized care and more accurate prognoses.",
+        "most_similar_instructions": {
+            "Give an example of an implementable AI solution in the banking sector": 0.4166666666666667,
+            "Describe the function of the given item.": 0.3157894736842105,
+            "Make a list of things to do in the given city.": 0.2608695652173913,
+            "Describe a situation in which the given stereotype can harm you.": 0.2608695652173913,
+            "Identify the pos tag of the word in the given sentence.": 0.2608695652173913,
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.": 0.22222222222222224,
+            "Describe the sound of a firecracker.": 0.2222222222222222,
+            "Provide an example of a simile": 0.2222222222222222,
+            "Give me an example of a time when you had to use your sense of humor.": 0.21428571428571427,
+            "Describe the negative impact of global warming.": 0.2105263157894737
+        },
+        "avg_similarity_score": 0.098477517825142
+    },
+    {
+        "instruction": "Give one example of how big data can help businesses",
+        "input": "",
+        "output": "Big data can help businesses by providing them with greater insights into customer behavior. By collecting data from customer interactions, surveys, online reviews, and other sources, businesses are able to better understand customer preferences, their buying habits, and their pain points. This in turn allows businesses to tailor their products, services, and marketing strategies to meet the individual needs of customers. Additionally, big data can also provide businesses with insights into market trends and opportunities and help them to optimize operations and increase efficiency.",
+        "most_similar_instructions": {
+            "Give an example of an implementable AI solution in the banking sector": 0.2727272727272727,
+            "Give three examples of artificial intelligence.": 0.25,
+            "Provide an example of a simile": 0.25,
+            "Give me the address of this person.": 0.23529411764705882,
+            "Give me the definition of the word.": 0.23529411764705882,
+            "Give me an example of a time when you had to use your sense of humor.": 0.23076923076923075,
+            "How can individuals and organizations reduce unconscious bias?": 0.22222222222222224,
+            "Give some examples of national dishes from a given country.": 0.20000000000000004,
+            "Given the name of an exercise, explain how to do it.": 0.1904761904761905,
+            "Generate a one-sentence description for each of the following people.": 0.1904761904761905
+        },
+        "avg_similarity_score": 0.039623946301943935
+    },
+    {
+        "instruction": "Make a sentence with the words - reach, apex",
+        "input": "",
+        "output": "He finally reached the apex of his career.",
+        "most_similar_instructions": {
+            "Construct a sentence using the given words": 0.5333333333333333,
+            "Write a sentence that ends with the word \"published\".": 0.47058823529411764,
+            "Complete the following sentence with appropriate words.": 0.39999999999999997,
+            "Make a one-sentence summarization of the paper based on the given information.": 0.380952380952381,
+            "Compare the given words.": 0.3333333333333333,
+            "Make a list of salty snacks with a soft texture.": 0.33333333333333326,
+            "Construct a sentence using the phrase \"once in a blue moon\".": 0.3157894736842105,
+            "Construct a sentence using the phrase \"in the nick of time\".": 0.3157894736842105,
+            "Write a story that contains the given words in 4 sentences.": 0.3157894736842105,
+            "Generate a one-sentence description for each of the following people.": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.1432937214694794
+    },
+    {
+        "instruction": "Generate a hypothesis to explain the impact of urbanization on flooding",
+        "input": "",
+        "output": "The hypothesis is that urbanization causes increased flooding due to a decrease in pervious surfaces, such as soil and vegetation, for water to be absorbed into the ground. With increased urbanization, hard surfaces such as roads, parking lots, and buildings replace the soil and vegetation, increasing the amount of runoff and causing more frequent and severe flooding events.",
+        "most_similar_instructions": {
+            "Generate a correct python program to fulfill the following purpose:": 0.380952380952381,
+            "Explain the theory of relativity": 0.37499999999999994,
+            "Explain the ending of given movie.": 0.3529411764705882,
+            "Explain the concept of artificial intelligence.": 0.3529411764705882,
+            "Write a program to compute the sum of integers from k to n.": 0.33333333333333337,
+            "Generate a haiku using the following word:": 0.33333333333333326,
+            "Describe the negative impact of global warming.": 0.33333333333333326,
+            "Recommend a movie for me to watch during the weekend and explain the reason.": 0.32,
+            "Generate a title for the paper given a description or abstract of its content.": 0.32,
+            "Generate a response given the previous chat history.": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.14740361431507895
+    },
+    {
+        "instruction": "Find out what the recent innovation in car manufacturing is",
+        "input": "",
+        "output": "One of the recent innovations in car manufacturing is the use of 3D printing to build components and tools. This has allowed car manufacturers to create detailed parts quickly and efficiently, reducing costs and allowing for faster production turnaround times. In addition, 3D printing has enabled car manufacturers to produce internal parts with intricate geometries that are much lighter than traditional parts made from metal, resulting in more fuel-efficient vehicles.",
+        "most_similar_instructions": {
+            "What is the longest river in the world?": 0.33333333333333326,
+            "Find out the difference between 'data' and 'information'.": 0.33333333333333326,
+            "find the toxic word or phrase in the sentence.": 0.3157894736842105,
+            "Find out the 10-day weather forecast for the given city.": 0.28571428571428564,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.2727272727272727,
+            "What is the critical role of a project manager in an organization?": 0.2727272727272727,
+            "What is a running stitch?": 0.26666666666666666,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.25,
+            "Find the four smallest perfect numbers.": 0.25,
+            "Summarize the context in one sentence.": 0.25
+        },
+        "avg_similarity_score": 0.10111432734887556
+    },
+    {
+        "instruction": "Classify the following object into a particular category",
+        "input": "A pottery vase",
+        "output": "The object is classified as a decorative item.",
+        "most_similar_instructions": {
+            "Convert the following sentence into a question.": 0.5333333333333333,
+            "Classify the following as either a fruit or vegetable.": 0.47058823529411764,
+            "Expand the following phrase into a sentence using adjectives.": 0.47058823529411764,
+            "Expand the following outline into an article.": 0.39999999999999997,
+            "Transform the paragraph into a single sentence.": 0.39999999999999997,
+            "Classify the following statement as true or false": 0.375,
+            "Separate the following sentence into its main concepts": 0.375,
+            "Rewrite the following sentence using a modal auxiliary": 0.375,
+            "Classify whether the following email is a spam or not. Output true or false.": 0.36363636363636365,
+            "The following sentence contains a spelling error. Correct it.": 0.35294117647058826
+        },
+        "avg_similarity_score": 0.13944424851089293
+    },
+    {
+        "instruction": "Rewrite the following sentence in the future tense",
+        "input": "It rains every day",
+        "output": "It will rain every day.",
+        "most_similar_instructions": {
+            "Rewrite the following sentence correctly in Passive Voice.": 0.625,
+            "Rewrite the following sentence in negative form: You must follow the rules": 0.6,
+            "Rewrite the following sentence using a modal auxiliary": 0.5,
+            "Re-write the following sentence in active voice.": 0.5,
+            "Rewrite the following sentence to be more professional.": 0.5,
+            "Rewrite the following sentence while maintaining its meaning.": 0.5,
+            "Convert the following sentence to passive voice": 0.39999999999999997,
+            "Rewrite the sentence using a different verb.": 0.39999999999999997,
+            "Reorder the following list in ascending order.": 0.39999999999999997,
+            "Complete the following sentence with appropriate words.": 0.39999999999999997
+        },
+        "avg_similarity_score": 0.15487108012338757
+    },
+    {
+        "instruction": "Generate a possible solution to the problem of air pollution",
+        "input": "",
+        "output": "A possible solution to the problem of air pollution is to increase the use of public transportation, encourage the use of electric vehicles, and switch to sustainable sources of energy such as solar and wind power. Additionally, stricter regulations should be implemented for the industries that produce the most pollution.",
+        "most_similar_instructions": {
+            "Generate a hypothesis to explain the impact of urbanization on flooding": 0.47619047619047616,
+            "Generate a correct python program to fulfill the following purpose:": 0.4000000000000001,
+            "Provide 3 possible solutions to a problem": 0.3529411764705882,
+            "Generate a haiku using the following word:": 0.3529411764705882,
+            "Write a program to compute the sum of integers from k to n.": 0.34782608695652173,
+            "Generate a title for the paper given a description or abstract of its content.": 0.3333333333333333,
+            "Use a counterstereotype to complete the given sentence.": 0.33333333333333326,
+            "Generate a response given the previous chat history.": 0.33333333333333326,
+            "Use a positive stereotype to complete the sentence.": 0.33333333333333326,
+            "Write a short story on the topic of 'Love'.": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.15083497394804835
+    },
+    {
+        "instruction": "Explain how AI can be used in the agricultural sector",
+        "input": "",
+        "output": "AI can be used in the agricultural sector to automate farming processes, optimize crop yields, and improve the efficiency of pest and disease control. AI can analyze data from sensors, drones, and satellite imagery to detect changes in crop conditions, such as changes in soil acidity or nutrient deficiency. AI can also be used to optimize irrigation and fertilization, predict weather patterns, perform soil analysis, and monitor the health of livestock.",
+        "most_similar_instructions": {
+            "Give an example of an implementable AI solution in the banking sector": 0.3636363636363636,
+            "Identify the literary device used in the following sentence.": 0.3157894736842105,
+            "Describe an interesting use case of neural networks in the medical sector": 0.2727272727272727,
+            "Explain the theory of relativity": 0.26666666666666666,
+            "Explain the ending of given movie.": 0.25,
+            "Explain the concept of artificial intelligence.": 0.25,
+            "Explain the questions like I am 5.": 0.23529411764705882,
+            "Parse the natural language query into a SQL query that can be executed on the table.": 0.23076923076923075,
+            "How can individuals and organizations reduce unconscious bias?": 0.22222222222222224,
+            "How would you describe the wonders of nature?": 0.22222222222222224
+        },
+        "avg_similarity_score": 0.09773934241928592
+    },
+    {
+        "instruction": "Find out the top three most populous cities in the world",
+        "input": "",
+        "output": "The top three most populous cities in the world are Tokyo (37.8 million), Delhi (27.2 million), and Shanghai (26 million).",
+        "most_similar_instructions": {
+            "What is the longest river in the world?": 0.4210526315789474,
+            "find the toxic word or phrase in the sentence.": 0.39999999999999997,
+            "Find out what the recent innovation in car manufacturing is": 0.380952380952381,
+            "Find out the 10-day weather forecast for the given city.": 0.36363636363636365,
+            "Find the misspelling in the sentence, and give me the correct spelling.": 0.34782608695652173,
+            "Find out the largest one from a set of numbers. Output the number directly.": 0.32,
+            "Rewrite the following sentence in the future tense": 0.3157894736842105,
+            "Differentiate between the words in the given pair": 0.3157894736842105,
+            "Find out the difference between 'data' and 'information'.": 0.3157894736842105,
+            "Diagnose the underlying problem in the following text": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.11286349256320562
+    },
+    {
+        "instruction": "List four problems that Google's self-driving cars can solve",
+        "input": "",
+        "output": "Google's self-driving cars can reduce traffic accidents, reduce the need for car ownership, reduce emissions, and boost accessibility to transportation. By taking the responsibility of driving off the hands of human drivers, these cars can prevent accidents due to driver error, improve the efficiency of traffic flow, and reduce the harmful emissions that are released from typical gas-powered vehicles. Additionally, self-driving cars can make transportation more accessible to those who have difficulty driving, such as those with disabilities or the elderly.",
+        "most_similar_instructions": {
+            "Brainstorm a list of possible New Year's resolutions.": 0.19999999999999998,
+            "Come up with a metaphor that can describe my situation.": 0.1904761904761905,
+            "Suggest some games that can be played by a group of people.": 0.17391304347826086,
+            "Give me a phrase that I can use to express I am very happy.": 0.16,
+            "Parse the natural language query into a SQL query that can be executed on the table.": 0.14814814814814814,
+            "Explain human's behavior.": 0.13333333333333333,
+            "Add things to the list.": 0.12500000000000003,
+            "Sort the given list ascendingly.": 0.12500000000000003,
+            "Find the four smallest perfect numbers.": 0.11764705882352942,
+            "Select the oldest person from the list.": 0.1111111111111111
+        },
+        "avg_similarity_score": 0.0200086779427299
+    },
+    {
+        "instruction": "Describe an interesting application of natural language processing",
+        "input": "",
+        "output": "An interesting application of natural language processing is chatbots. Chatbots are computer programs that can process natural language and interact with people in a natural conversational format. They can be used for customer service, marketing, and education and can even assist in medical diagnosis by helping doctors find possible treatments and provide advice.",
+        "most_similar_instructions": {
+            "Describe an interesting use case of neural networks in the medical sector": 0.4,
+            "Describe the sound of a firecracker.": 0.28571428571428575,
+            "Provide an example of a simile": 0.28571428571428575,
+            "Describe the negative impact of global warming.": 0.26666666666666666,
+            "Describe the function of the given item.": 0.26666666666666666,
+            "How would you describe the wonders of nature?": 0.25,
+            "Describe the process of solving a Rubik's cube": 0.23529411764705882,
+            "Describe the character trait of a person who is patient.": 0.22222222222222224,
+            "Give an example of an implementable AI solution in the banking sector": 0.2,
+            "Design an application that allows users to securely store and access confidential data.": 0.1904761904761905
+        },
+        "avg_similarity_score": 0.04124410124320594
+    }
+]
