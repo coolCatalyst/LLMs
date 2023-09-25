@@ -1,4 +1,4 @@
-You have to generate 10 diverse question-answer pairs based on following given context. 
+prompt_template = """You have to generate 10 diverse question-answer pairs based on following given context. 
 
 context:
 {context}
@@ -30,3 +30,4 @@ Output must be following type:
 
 
 List of 10 tasks:
+"""

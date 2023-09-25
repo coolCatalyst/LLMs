@@ -3,11 +3,14 @@ import random
 import re
 import string
 import time
+from typing import List
 import openai
 
 from tqdm import tqdm
 from dotenv import load_dotenv
-from src import utils
+from src.prompt.prompt_doc import prompt_template
+from src.utils import find_word_in_string, openai_chat_completion
+from src.utils.json_io import jdump
 
 
 def post_process_gpt4_response(message):
@@ -41,7 +44,7 @@ def post_process_gpt4_response(message):
             "diagram",
         ]
         blacklist += []
-        if any(utils.find_word_in_string(word, raw_qa) for word in blacklist):
+        if any(find_word_in_string(word, raw_qa) for word in blacklist):
             continue
         # if raw_qa.startswith("Write a program"):
         #     continue
@@ -58,16 +61,27 @@ def post_process_gpt4_response(message):
 
 
 def generate_qa_doc(
-    documents=[],
-    output_dir="./",
-    model_name="gpt-4",
+    documents: List[str] = [],
+    output_dir: str = "./",
+    model_name: str = "gpt-4",
     # request_batch_size=3,
-    temperature=1.0,
-    top_p=1.0,
-    num_cpus=16,
+    temperature: float = 1.0,
+    top_p: float = 1.0,
 ):
+    """
+    Generates a QA dataset based on documents using the GPT-4 model.
+
+    Args:
+        documents (List[str], optional): A list of documents to generate QA pairs from. Defaults to [].
+        output_dir (str, optional): The output directory to save the generated QA pairs. Defaults to "./".
+        model_name (str, optional): The name of the GPT-4 model to use. Defaults to "gpt-4".
+        temperature (float, optional): The temperature parameter for the GPT-4 model. Defaults to 1.0.
+        top_p (float, optional): The top-p parameter for the GPT-4 model. Defaults to 1.0.
+
+    Returns:
+        None
+    """
     os.makedirs(output_dir, exist_ok=True)
-    prompt_template = open("./prompt_doc.txt").read() + "\n"
 
     machine_qas = []
     decoding_args = {
@@ -78,12 +92,11 @@ def generate_qa_doc(
         "stop": ["\n20", "20.", "20."],
     }
 
-    request_start = time.time()
     for document in tqdm(documents):
         messages = [
             {"role": "user", "content": prompt_template.replace("{context}", document)}
         ]
-        res_message = utils.openai_chat_completion(
+        res_message = openai_chat_completion(
             messages=messages,
             model_name=model_name,
             # batch_size=request_batch_size,
@@ -96,14 +109,4 @@ def generate_qa_doc(
 
         qas = post_process_gpt4_response(res_message)
         machine_qas.extend(qas)
-    request_duration = time.time() - request_start
-    utils.jdump(machine_qas, os.path.join(output_dir, "qa_gpt4.json"))
-
-
-if __name__ == "__main__":
-    with open("assets/financial_blog.txt", "r") as file:
-        text = file.read()
-    documents = utils.compute_documents(text, chunk_size=300, chunk_overlap=100)
-    load_dotenv()
-    openai.api_key = os.getenv("OPENAI_API_KEY")
-    generate_qa_doc(documents=documents)
+    jdump(machine_qas, os.path.join(output_dir, "qa_gpt4.json"))

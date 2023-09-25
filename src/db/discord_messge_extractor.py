@@ -10,7 +10,7 @@ def discord_message_extractor(channelid: str, token: str, message_limit: Optiona
     Args:
         channelid (str): The ID of the Discord channel.
         token (str): The authorization token.
-        limit (int, optional): The maximum number of messages to retrieve. Defaults to 10.
+        limit (int, optional): The maximum number of messages to retrieve. Optional.
 
     Returns:
         list: A list of message IDs and content.
