@@ -26,6 +26,17 @@ Human: {input}
 AI:"""
 
 def get_chain(model, template, verbose=False):
+    """
+    Generates a language model chain using a given model and template.
+    
+    Args:
+        model (str): The name of the language model to use.
+        template (str): The template to use for generating the language model chain.
+        verbose (bool, optional): Whether to print verbose output. Defaults to False.
+    
+    Returns:
+        LLMChain: The generated language model chain.
+    """
     pipeline = transformers.pipeline(
         model=model,
         tokenizer=tokenizer,
@@ -43,6 +54,16 @@ def get_chain(model, template, verbose=False):
     )
 
 def falcon_inference(model_path:str, question:str):
+    """
+    Perform inference using the Falcon model.
+
+    Args:
+        model_path (str): The path to the directory containing the Falcon model.
+        question (str): The input question for the inference.
+
+    Returns:
+        str: The result of the Falcon inference.
+    """
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
         trust_remote_code=True,

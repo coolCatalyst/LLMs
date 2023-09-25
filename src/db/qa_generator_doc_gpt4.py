@@ -14,6 +14,15 @@ from src.utils.json_io import jdump
 
 
 def post_process_gpt4_response(message):
+    """
+    A function to post-process the response from GPT4.
+    
+    Args:
+        message (dict): The response message from GPT4.
+        
+    Returns:
+        list: A list of question-answer pairs extracted from the response.
+    """
     if message is None:
         return []
     raw_messages = re.split("###", message["content"])
@@ -46,14 +55,6 @@ def post_process_gpt4_response(message):
         blacklist += []
         if any(find_word_in_string(word, raw_qa) for word in blacklist):
             continue
-        # if raw_qa.startswith("Write a program"):
-        #     continue
-        # # filter those starting with punctuation
-        # if raw_qa[0] in string.punctuation:
-        #     continue
-        # # filter those starting with non-english character
-        # if not inst[0].isascii():
-        #     continue
         matches = re.findall(r":\s(.*?)\n", raw_qa)
         if len(matches) == 2:
             qas.append({"Question": matches[0], "Answer": matches[1]})
