@@ -1,13 +1,23 @@
 import requests
 import json
-import csv
 
 
-def retrieve_messages(channelid):
+def discord_message_extractor(channelid: str, token: str, limit: int = 10):
+    """
+    Retrieve messages from a Discord channel.
+
+    Args:
+        channelid (str): The ID of the Discord channel.
+        token (str): The authorization token.
+        limit (int, optional): The maximum number of messages to retrieve. Defaults to 10.
+
+    Returns:
+        list: A list of message IDs and content.
+
+    """
     num = 0
-    limit = 10
 
-    headers = {"authorization": "Your_Token"}  # Enter  you own token
+    headers = {"authorization": token}  # Enter  you own token
 
     last_message_id = None
     messages = []  # Initialize an empty list to store message content and IDs
@@ -35,21 +45,3 @@ def retrieve_messages(channelid):
 
     print("Number of messages collected:", num)
     return messages
-
-
-def save_to_csv(messages, filename):
-    with open(filename, "w", newline="", encoding="utf-8") as file:
-        csv_writer = csv.writer(file)
-        csv_writer.writerow(["ID", "Message"])
-        csv_writer.writerows(messages)
-    print(f"Saved {len(messages)} messages to {filename}")
-
-
-if __name__ == "__main__":
-    channel_id = "702878028841091093"  # Replace with your desired channel ID
-    print("Fetching messages...")
-    saved_messages = retrieve_messages(channel_id)
-    print("Fetching messages completed!")
-    print("Saving to CSV...")
-    save_to_csv(saved_messages, "messages.csv")
-    print("Saving to CSV completed!")
