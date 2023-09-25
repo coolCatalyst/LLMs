@@ -1,8 +1,9 @@
+from typing import Optional
 import requests
 import json
 
 
-def discord_message_extractor(channelid: str, token: str, limit: int = 10):
+def discord_message_extractor(channelid: str, token: str, message_limit: Optional[int]):
     """
     Retrieve messages from a Discord channel.
 
@@ -16,6 +17,7 @@ def discord_message_extractor(channelid: str, token: str, limit: int = 10):
 
     """
     num = 0
+    limit = 10
 
     headers = {"authorization": token}  # Enter  you own token
 
@@ -42,6 +44,8 @@ def discord_message_extractor(channelid: str, token: str, limit: int = 10):
             last_message_id = message_id
             num += 1
             print(f"Retrieving message {num} - ID: {message_id}")
+            if message_limit is not None and num >= message_limit:
+                break
 
     print("Number of messages collected:", num)
     return messages
