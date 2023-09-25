@@ -56,7 +56,7 @@ def post_process_gpt4_response(message):
         #     continue
         matches = re.findall(r":\s(.*?)\n", raw_qa)
         if len(matches) == 2:
-            qas.append({"user": matches[0], "AI": matches[1]})
+            qas.append({"Question": matches[0], "Answer": matches[1]})
     return qas
 
 

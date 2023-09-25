@@ -16,17 +16,17 @@ Here are the requirements:
 
 Output must be following type:
 ###
-1. User: <question 1>
-1. AI: <answer 1>
+1. Question: <question 1>
+1. Answer: <answer 1>
 ###
-2. User: <question 2>
-2. AI: <answer 2>
+2. Question: <question 2>
+2. Answer: <answer 2>
 
 ...
 
 ###
-10. User: <question 10>
-10. AI: <answer 10>
+10. Question: <question 10>
+10. Answer: <answer 10>
 
 
 List of 10 tasks:
